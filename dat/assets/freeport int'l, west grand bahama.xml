@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Freeport Int'l, West Grand Bahama">
+  <pos>
+    <x>-29931.794491</x>
+    <y>-26199.866022</y>
+  </pos>
+  <GFX>
+    <space>mapped/Freeport Int'l, West Grand Bahama.png</space>
+    <exterior>aquatic2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Freeport Int'l, West Grand Bahama is in the Nassau system. in the District of West Grand Bahama.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

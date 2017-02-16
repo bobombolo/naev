@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Kryvyy Rih, Dnipropetrovs'k">
+  <pos>
+    <x>35075.139690</x>
+    <y>-15159.228517</y>
+  </pos>
+  <GFX>
+    <space>mapped/Kryvyy Rih, Dnipropetrovs'k.png</space>
+    <exterior>gas.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Proteron</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>652380</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Kryvyy Rih, Dnipropetrovs'k is in the Kiev system.It is part of Ukraine in the Region of Dnipropetrovs'k.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

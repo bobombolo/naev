@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Jayapura">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1406.999800</x>
+    <y>-30.395835</y>
+  </pos>
+  <assets>
+    <asset>Jayapura, Papua</asset>
+    <asset>Merauke, Papua</asset>
+    <asset>Mt. Hagen, Western Highlands</asset>
+    <asset>Madang, Madang</asset>
+    <asset>Timika, Papua</asset>
+    <asset>Goroka, Eastern Highlands</asset>
+    <asset>Wewak, East Sepik</asset>
+    <asset>Mendi, Southern Highlands</asset>
+    <asset>Wewak WWK Stn</asset>
+    <asset>Vanimo Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Sorong">
+      <autopos/>
+    </jump>
+    <jump target="Cairns">
+      <autopos/>
+    </jump>
+    <jump target="Port Moresby">
+      <autopos/>
+    </jump>
+    <jump target="Darwin">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

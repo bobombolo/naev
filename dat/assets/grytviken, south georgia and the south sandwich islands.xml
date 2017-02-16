@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Grytviken, South Georgia and the South Sandwich Islands">
+  <pos>
+    <x>-38774.391471</x>
+    <y>7169.544266</y>
+  </pos>
+  <GFX>
+    <space>mapped/Grytviken, South Georgia and the South Sandwich Islands.png</space>
+    <exterior>oceanic2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>FLF</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>99</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Grytviken, South Georgia and the South Sandwich Islands is in the Grytviken system.It is part of South Georgia and the Islands.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

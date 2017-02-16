@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Bandung, Jawa Barat">
+  <pos>
+    <x>5321.493709</x>
+    <y>-14170.507353</y>
+  </pos>
+  <GFX>
+    <space>mapped/Bandung, Jawa Barat.png</space>
+    <exterior>mining6.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>2394000</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Bandung, Jawa Barat is in the Jakarta system.It is part of Indonesia in the Province of Jawa Barat.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

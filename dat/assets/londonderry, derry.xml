@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Londonderry, Derry">
+  <pos>
+    <x>-13222.831496</x>
+    <y>-38582.836914</y>
+  </pos>
+  <GFX>
+    <space>mapped/Londonderry, Derry.png</space>
+    <exterior>forest2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Proteron</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>83652</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Londonderry, Derry is in the Glasgow system.It is part of United Kingdom in the London Borough (city) of Derry.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

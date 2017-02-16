@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Stockholm, Stockholm">
+  <pos>
+    <x>-17639.529006</x>
+    <y>36235.806503</y>
+  </pos>
+  <GFX>
+    <space>mapped/Stockholm, Stockholm.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Proteron</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>1264000</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Stockholm, Stockholm is in the Katowice system.It is part of Sweden in the County of Stockholm.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

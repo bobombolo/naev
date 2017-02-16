@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Nizhny Novgorod GOJ Stn">
+  <pos>
+    <x>-19931.730350</x>
+    <y>-28837.419271</y>
+  </pos>
+  <GFX>
+    <space>001.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Proteron</faction>
+    <value>200.000000</value>
+    <range>6</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Nizhny Novgorod GOJ Stn is in the Nizhny Novgorod system. in the Region of Nizhegorod.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

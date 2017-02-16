@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="San Antonio, Texas">
+  <pos>
+    <x>19471.750408</x>
+    <y>37328.392388</y>
+  </pos>
+  <GFX>
+    <space>mapped/San Antonio, Texas.png</space>
+    <exterior>aquatic3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Empire</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>1473000</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>San Antonio, Texas is in the Guadalajara system.It is part of United States of America in the State of Texas.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

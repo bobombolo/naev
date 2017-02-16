@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Naples, Napoli">
+  <pos>
+    <x>20823.883941</x>
+    <y>8149.928847</y>
+  </pos>
+  <GFX>
+    <space>mapped/Naples, Napoli.png</space>
+    <exterior>mining6.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Proteron</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>2250000</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Naples, Napoli is in the Rome system.It is part of Italy in the Province of Napoli.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

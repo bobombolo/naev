@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Castanhal, Para">
+  <pos>
+    <x>8413.353894</x>
+    <y>31097.363278</y>
+  </pos>
+  <GFX>
+    <space>mapped/Castanhal, Para.png</space>
+    <exterior>forest.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>137406</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Castanhal, Para is in the Belem system.It is part of Brazil in the State of Para.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

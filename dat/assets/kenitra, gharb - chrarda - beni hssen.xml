@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Kenitra, Gharb - Chrarda - Beni Hssen">
+  <pos>
+    <x>-7196.532668</x>
+    <y>35577.363280</y>
+  </pos>
+  <GFX>
+    <space>mapped/Kenitra, Gharb - Chrarda - Beni Hssen.png</space>
+    <exterior>mining3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>551786</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Kenitra, Gharb - Chrarda - Beni Hssen is in the Casablanca system.It is part of Morocco in the Region of Gharb - Chrarda - Beni Hssen.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

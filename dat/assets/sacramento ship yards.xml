@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Sacramento Ship Yards">
+  <pos>
+    <x>-25890.160000</x>
+    <y>30054.160000</y>
+  </pos>
+  <GFX>
+    <space>station-shipyard2.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Empire</faction>
+    <value>1.000000</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+      <shipyard/>
+    </services>
+    <commodities/>
+    <description>Sacramento Ship Yards is in the Los Angeles system. in the State of California.</description>
+    <bar>Shipyard workers drink here</bar>
+  </general>
+  <tech>
+    <item>All Ships</item>
+    <item>All Outfits</item>
+  </tech>
+</asset>

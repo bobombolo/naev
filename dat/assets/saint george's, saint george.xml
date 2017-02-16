@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Saint George's, Saint George">
+  <pos>
+    <x>-32797.545809</x>
+    <y>17835.227214</y>
+  </pos>
+  <GFX>
+    <space>mapped/Saint George's, Saint George.png</space>
+    <exterior>mining4.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>33734</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Saint George's, Saint George is in the Maturin system.It is part of Grenada in the Parish of Saint George.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

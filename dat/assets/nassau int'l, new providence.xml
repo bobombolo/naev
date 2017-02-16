@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Nassau Int'l, New Providence">
+  <pos>
+    <x>-20019.097833</x>
+    <y>-38196.311519</y>
+  </pos>
+  <GFX>
+    <space>mapped/Nassau Int'l, New Providence.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Nassau Int'l, New Providence is in the Nassau system. in the Capital of New Providence.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

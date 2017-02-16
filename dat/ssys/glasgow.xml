@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Glasgow">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-42.526531</x>
+    <y>670.516207</y>
+  </pos>
+  <assets>
+    <asset>Glasgow, Glasgow</asset>
+    <asset>Edinburgh, Edinburgh</asset>
+    <asset>Aberdeen, Aberdeen</asset>
+    <asset>Dundee, Dundee</asset>
+    <asset>Londonderry, Derry</asset>
+    <asset>Carlisle, Cumbria</asset>
+    <asset>Ayr, South Ayrshire</asset>
+    <asset>Greenock, Inverclyde</asset>
+    <asset>Vagar Stn</asset>
+    <asset>Montrose Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Birmingham">
+      <autopos/>
+    </jump>
+    <jump target="London">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

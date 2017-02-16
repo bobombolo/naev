@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Gandhinagar Stn">
+  <pos>
+    <x>12389.659940</x>
+    <y>-38857.675462</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>80.000000</value>
+    <range>9</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Gandhinagar Stn is in the Karachi system. in the State of Maharashtra.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

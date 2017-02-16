@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Pinrang, Sulawesi Selatan">
+  <pos>
+    <x>-36569.273406</x>
+    <y>11128.349606</y>
+  </pos>
+  <GFX>
+    <space>mapped/Pinrang, Sulawesi Selatan.png</space>
+    <exterior>methane.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>182731</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Pinrang, Sulawesi Selatan is in the Ujungpandang system.It is part of Indonesia in the Province of Sulawesi Selatan.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

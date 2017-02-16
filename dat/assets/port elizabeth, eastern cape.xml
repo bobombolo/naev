@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Port Elizabeth, Eastern Cape">
+  <pos>
+    <x>-26900.056085</x>
+    <y>-30330.543161</y>
+  </pos>
+  <GFX>
+    <space>mapped/Port Elizabeth, Eastern Cape.png</space>
+    <exterior>desertic4.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>1021000</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Port Elizabeth, Eastern Cape is in the Johannesburg system.It is part of South Africa in the Province of Eastern Cape.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

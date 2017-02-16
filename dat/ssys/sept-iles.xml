@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Sept-Iles">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-663.600169</x>
+    <y>603.793052</y>
+  </pos>
+  <assets>
+    <asset>Sept-ales, Quebec</asset>
+    <asset>Labrador City, Newfoundland and Labrador</asset>
+    <asset>Kuujjuaq, Quebec</asset>
+    <asset>Nain, Newfoundland and Labrador</asset>
+    <asset>Mingan, Quebec</asset>
+    <asset>Schefferville, Quebec</asset>
+    <asset>Churchill Falls, Newfoundland and Labrador</asset>
+    <asset>Kuujjuaq Stn</asset>
+    <asset>Wabush, Newfoundland and Labrador</asset>
+  </assets>
+  <jumps>
+    <jump target="Hopedale">
+      <autopos/>
+    </jump>
+    <jump target="Cape Breton">
+      <autopos/>
+    </jump>
+    <jump target="Iqaluit">
+      <autopos/>
+    </jump>
+    <jump target="Halifax">
+      <autopos/>
+    </jump>
+    <jump target="Inukjuak">
+      <autopos/>
+    </jump>
+    <jump target="Montreal">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

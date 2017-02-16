@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Coronel Ship Yards">
+  <pos>
+    <x>14472.824880</x>
+    <y>25187.493360</y>
+  </pos>
+  <GFX>
+    <space>station-shipyard.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+      <shipyard/>
+    </services>
+    <commodities/>
+    <description>Coronel Ship Yards is in the Concepcion system. in the Region of Bio-Bio.</description>
+    <bar>Shipyard workers drink here</bar>
+  </general>
+  <tech>
+    <item>All Ships</item>
+    <item>All Outfits</item>
+  </tech>
+</asset>

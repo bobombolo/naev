@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Roman Tmetuchl ROR Stn">
+  <pos>
+    <x>13194.507730</x>
+    <y>-19669.875711</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase2.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Sirius</faction>
+    <value>150.000000</value>
+    <range>7</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Roman Tmetuchl ROR Stn is in the Koror system. in the area of Airai.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

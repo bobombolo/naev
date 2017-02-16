@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Resolute Bay Stn">
+  <pos>
+    <x>-21502.658595</x>
+    <y>39159.648790</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>100.000000</value>
+    <range>8</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Resolute Bay Stn is in the Gjoa Haven system. in the Territory of Nunavut.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

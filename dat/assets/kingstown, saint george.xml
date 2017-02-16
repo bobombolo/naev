@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Kingstown, Saint George">
+  <pos>
+    <x>-28560.899362</x>
+    <y>26600.390623</y>
+  </pos>
+  <GFX>
+    <space>mapped/Kingstown, Saint George.png</space>
+    <exterior>snowy_cliffs.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>49485</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Kingstown, Saint George is in the Maturin system.It is part of Saint Vincent and the Grenadines in the Parish of Saint George.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Mazatlan">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1064.200007</x>
+    <y>278.653208</y>
+  </pos>
+  <assets>
+    <asset>Mazatlan, Sinaloa</asset>
+    <asset>Tepic, Nayarit</asset>
+    <asset>Puerto Vallarta, Jalisco</asset>
+    <asset>La Paz, Baja California Sur</asset>
+    <asset>Manzanillo, Colima</asset>
+    <asset>Autlan, Jalisco</asset>
+    <asset>Cabo San Lucas, Baja California Sur</asset>
+    <asset>Escuinapa, Sinaloa</asset>
+    <asset>Los Cabos SJD Stn</asset>
+    <asset>La Paz Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Phoenix">
+      <autopos/>
+    </jump>
+    <jump target="Guadalajara">
+      <autopos/>
+    </jump>
+    <jump target="Mexico City">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

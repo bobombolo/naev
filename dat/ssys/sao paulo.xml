@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Sao Paulo">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-466.269658</x>
+    <y>-282.680805</y>
+  </pos>
+  <assets>
+    <asset>Sao Paulo, Sao Paulo</asset>
+    <asset>Curitiba, Parana</asset>
+    <asset>Porto Alegre, Rio Grande do Sul</asset>
+    <asset>Campinas, Sao Paulo</asset>
+    <asset>Santo Andre, Sao Paulo</asset>
+    <asset>Sao Jose dos Campos, Sao Paulo</asset>
+    <asset>Sorocaba, Sao Paulo</asset>
+    <asset>Ribeirao Preto, Sao Paulo</asset>
+    <asset>Viracopos-Campinas VCP Stn</asset>
+    <asset>Navegantes Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Buenos Aires">
+      <autopos/>
+    </jump>
+    <jump target="Cuiaba">
+      <autopos/>
+    </jump>
+    <jump target="Brasilia">
+      <autopos/>
+    </jump>
+    <jump target="Pelotas">
+      <autopos/>
+    </jump>
+    <jump target="Rio de Janeiro">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

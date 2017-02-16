@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Exuma GGT Stn">
+  <pos>
+    <x>-7281.224682</x>
+    <y>29925.223255</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase2.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Empire</faction>
+    <value>100.000000</value>
+    <range>8</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Exuma GGT Stn is in the Port-au-Prince system. in the District of Exuma.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

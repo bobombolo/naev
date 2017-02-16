@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Antananarivo">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>475.146780</x>
+    <y>-226.976298</y>
+  </pos>
+  <assets>
+    <asset>Antananarivo, Analamanga</asset>
+    <asset>Antsirabe, Vakinankaratra</asset>
+    <asset>Toamasina, Atsinanana</asset>
+    <asset>Fianarantsoa, Haute Matsiatra</asset>
+    <asset>Mahajanga, Boeny</asset>
+    <asset>Toliara, Atsimo-Andrefana</asset>
+    <asset>Ambatondrazaka, Alaotra-Mangoro</asset>
+    <asset>Tolanaro, Anosy</asset>
+    <asset>Toamasina Ship Yards</asset>
+    <asset>Antananarivo Ivato Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Moroni">
+      <autopos/>
+    </jump>
+    <jump target="Port Louis">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

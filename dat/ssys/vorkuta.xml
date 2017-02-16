@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Vorkuta">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>640.099841</x>
+    <y>810.000000</y>
+  </pos>
+  <assets>
+    <asset>Vorkuta, Komi</asset>
+    <asset>Vorkuta, Komi</asset>
+    <asset>Salekhard, Yamal-Nenets</asset>
+    <asset>Severnyy, Komi</asset>
+    <asset>Severnyy, Komi</asset>
+    <asset>Inta, Komi</asset>
+    <asset>Inta, Komi</asset>
+    <asset>Amderma, Nenets</asset>
+    <asset>Amderma Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Ukhta">
+      <autopos/>
+    </jump>
+    <jump target="Yekaterinburg">
+      <autopos/>
+    </jump>
+    <jump target="Surgut">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

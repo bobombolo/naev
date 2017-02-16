@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Attawapiskat">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-824.333252</x>
+    <y>634.999519</y>
+  </pos>
+  <assets>
+    <asset>Attawapiskat, Ontario</asset>
+    <asset>Moosonee, Ontario</asset>
+    <asset>Fort Severn, Ontario</asset>
+    <asset>Lansdowne House, Ontario</asset>
+  </assets>
+  <jumps>
+    <jump target="Rankin Inlet">
+      <autopos/>
+    </jump>
+    <jump target="Toronto">
+      <autopos/>
+    </jump>
+    <jump target="Inukjuak">
+      <autopos/>
+    </jump>
+    <jump target="Minneapolis">
+      <autopos/>
+    </jump>
+    <jump target="Montreal">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

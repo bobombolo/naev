@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Viru Harbour, Western">
+  <pos>
+    <x>-9106.955200</x>
+    <y>-26583.617776</y>
+  </pos>
+  <GFX>
+    <space>mapped/Viru Harbour, Western.png</space>
+    <exterior>gas.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Sirius</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+      <shipyard/>
+    </services>
+    <commodities/>
+    <description>Viru Harbour, Western is in the Honiara system. in the Province of Western.</description>
+    <bar>Shipyard workers drink here</bar>
+  </general>
+  <tech>
+    <item>All Ships</item>
+    <item>All Outfits</item>
+  </tech>
+</asset>

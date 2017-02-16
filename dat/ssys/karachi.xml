@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Karachi">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>669.880631</x>
+    <y>298.463258</y>
+  </pos>
+  <assets>
+    <asset>Karachi, Sind</asset>
+    <asset>Ahmedabad, Gujarat</asset>
+    <asset>Surat, Gujarat</asset>
+    <asset>Jaipur, Rajasthan</asset>
+    <asset>Indore, Madhya Pradesh</asset>
+    <asset>Vadodara, Gujarat</asset>
+    <asset>Hyderabad, Sind</asset>
+    <asset>Nasik, Maharashtra</asset>
+    <asset>Gandhinagar Stn</asset>
+    <asset>Kandla Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Lahore">
+      <autopos/>
+    </jump>
+    <jump target="Delhi">
+      <autopos/>
+    </jump>
+    <jump target="Quetta">
+      <autopos/>
+    </jump>
+    <jump target="Mumbai">
+      <autopos/>
+    </jump>
+    <jump target="Hyderabad">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

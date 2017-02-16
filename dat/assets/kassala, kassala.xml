@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Kassala, Kassala">
+  <pos>
+    <x>-9846.590127</x>
+    <y>5093.938800</y>
+  </pos>
+  <GFX>
+    <space>mapped/Kassala, Kassala.png</space>
+    <exterior>desertic2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>401477</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Kassala, Kassala is in the Khartoum system.It is part of Sudan in the State of Kassala.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

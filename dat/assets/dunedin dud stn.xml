@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Dunedin DUD Stn">
+  <pos>
+    <x>21403.016000</x>
+    <y>34026.712000</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Sirius</faction>
+    <value>150.000000</value>
+    <range>7</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Dunedin DUD Stn is in the Dunedin system. in the Regional Council of Otago.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

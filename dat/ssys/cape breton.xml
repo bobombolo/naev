@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Cape Breton">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-601.799807</x>
+    <y>552.793374</y>
+  </pos>
+  <assets>
+    <asset>Sydney, Nova Scotia</asset>
+    <asset>Corner Brook, Newfoundland and Labrador</asset>
+    <asset>Stephenville, Newfoundland and Labrador</asset>
+    <asset>St-Augustin, Quebec</asset>
+    <asset>Deer Lake, Newfoundland and Labrador</asset>
+    <asset>Gander, Newfoundland and Labrador</asset>
+    <asset>Channel-Port aux Basques, Newfoundland and Labrador</asset>
+    <asset>Argentia, Newfoundland and Labrador</asset>
+    <asset>Sydney-J.A. Douglas McCurdy Stn</asset>
+    <asset>North Sydney Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Hopedale">
+      <autopos/>
+    </jump>
+    <jump target="Newfoundland">
+      <autopos/>
+    </jump>
+    <jump target="Sept-Iles">
+      <autopos/>
+    </jump>
+    <jump target="Halifax">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

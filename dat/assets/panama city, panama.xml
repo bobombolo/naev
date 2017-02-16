@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Panama City, Panama">
+  <pos>
+    <x>-36580.184083</x>
+    <y>-6826.135607</y>
+  </pos>
+  <GFX>
+    <space>mapped/Panama City, Panama.png</space>
+    <exterior>lava.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>1281000</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Panama City, Panama is in the Medellin system.It is part of Panama in the Province of Panama.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

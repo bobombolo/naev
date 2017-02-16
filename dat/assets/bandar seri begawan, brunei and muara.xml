@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Bandar Seri Begawan, Brunei and Muara">
+  <pos>
+    <x>-5038.767546</x>
+    <y>-39519.191083</y>
+  </pos>
+  <GFX>
+    <space>mapped/Bandar Seri Begawan, Brunei and Muara.png</space>
+    <exterior>mining3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>296500</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Bandar Seri Begawan, Brunei and Muara is in the Kota Kinabalu system.It is part of Brunei in the District of Brunei and Muara.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

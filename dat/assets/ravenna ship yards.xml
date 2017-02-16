@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Ravenna Ship Yards">
+  <pos>
+    <x>4882.186880</x>
+    <y>37111.937760</y>
+  </pos>
+  <GFX>
+    <space>station-shipyard.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Proteron</faction>
+    <value>1.000000</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+      <shipyard/>
+    </services>
+    <commodities/>
+    <description>Ravenna Ship Yards is in the Rome system. in the Province of Ravenna.</description>
+    <bar>Shipyard workers drink here</bar>
+  </general>
+  <tech>
+    <item>All Ships</item>
+    <item>All Outfits</item>
+  </tech>
+</asset>

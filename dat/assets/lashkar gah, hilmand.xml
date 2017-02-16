@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Lashkar Gah, Hilmand">
+  <pos>
+    <x>6067.116427</x>
+    <y>14078.144179</y>
+  </pos>
+  <GFX>
+    <space>mapped/Lashkar Gah, Hilmand.png</space>
+    <exterior>asteroid.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>201546</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Lashkar Gah, Hilmand is in the Quetta system.It is part of Afghanistan in the Province of Hilmand.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

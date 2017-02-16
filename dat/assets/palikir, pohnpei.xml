@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Palikir, Pohnpei">
+  <pos>
+    <x>-5715.405410</x>
+    <y>16747.309568</y>
+  </pos>
+  <GFX>
+    <space>mapped/Palikir, Pohnpei.png</space>
+    <exterior>mining6.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Sirius</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>4645</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Palikir, Pohnpei is in the Palikir system.It is part of Federated States of Micronesia in the area of Pohnpei.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 2</item>
+  </tech>
+</asset>

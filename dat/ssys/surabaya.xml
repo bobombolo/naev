@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Surabaya">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1127.488874</x>
+    <y>-86.967480</y>
+  </pos>
+  <assets>
+    <asset>Surabaya, Jawa Timur</asset>
+    <asset>Malang, Jawa Timur</asset>
+    <asset>Denpasar, Bali</asset>
+    <asset>Mataram, Nusa Tenggara Barat</asset>
+    <asset>Jember, Jawa Timur</asset>
+    <asset>Kediri, Jawa Timur</asset>
+    <asset>Pasuruan, Jawa Timur</asset>
+    <asset>Madiun, Jawa Timur</asset>
+    <asset>Abdul Rachman Saleh Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Ujungpandang">
+      <autopos/>
+    </jump>
+    <jump target="Jakarta">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

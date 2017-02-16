@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Melbourne">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1449.730704</x>
+    <y>-453.817025</y>
+  </pos>
+  <assets>
+    <asset>Adelaide, South Australia</asset>
+    <asset>Geelong, Victoria</asset>
+    <asset>Melbourne, Victoria</asset>
+    <asset>Ballarat, Victoria</asset>
+    <asset>Bendigo, Victoria</asset>
+    <asset>Cranbourne, Victoria</asset>
+    <asset>Shepparton, Victoria</asset>
+    <asset>Warrnambool, Victoria</asset>
+    <asset>Broken Hill Stn</asset>
+    <asset>Port Augusta Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Mount Isa">
+      <autopos/>
+    </jump>
+    <jump target="Sydney">
+      <autopos/>
+    </jump>
+    <jump target="Canberra">
+      <autopos/>
+    </jump>
+    <jump target="Port Lincoln">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

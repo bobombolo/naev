@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Samut Prakan, Samut Prakan">
+  <pos>
+    <x>18950.807245</x>
+    <y>30269.417316</y>
+  </pos>
+  <GFX>
+    <space>mapped/Samut Prakan, Samut Prakan.png</space>
+    <exterior>desertic3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>388920</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Samut Prakan, Samut Prakan is in the Bangkok system.It is part of Thailand in the Province of Samut Prakan.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

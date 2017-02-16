@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Vila Velha">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-512.166519</x>
+    <y>38.599954</y>
+  </pos>
+  <assets>
+    <asset>Macap-, Amapa</asset>
+    <asset>Vila Velha, Amapa</asset>
+    <asset>Porto Santana, Amapa</asset>
+    <asset>Cayenne, Guyane francaise</asset>
+    <asset>Kourou, Guyane francaise</asset>
+    <asset>Saint-Laurent-du-Maroni, Guyane francaise</asset>
+    <asset>Sinnamary, Guyane francaise</asset>
+    <asset>Amapa, Amapa</asset>
+    <asset>Centre Spatial Guyanais Stn</asset>
+    <asset>Macapa Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Manaus">
+      <autopos/>
+    </jump>
+    <jump target="Belem">
+      <autopos/>
+    </jump>
+    <jump target="Maturin">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

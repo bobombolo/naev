@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Funchal">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-168.800397</x>
+    <y>391.799790</y>
+  </pos>
+  <assets>
+    <asset>Funchal, Madeira</asset>
+  </assets>
+  <jumps/>
+</ssys>

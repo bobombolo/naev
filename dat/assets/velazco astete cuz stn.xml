@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Velazco Astete CUZ Stn">
+  <pos>
+    <x>24150.366840</x>
+    <y>-26891.589594</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase2.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>150.000000</value>
+    <range>7</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Velazco Astete CUZ Stn is in the Lima system. in the Department of Cusco.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

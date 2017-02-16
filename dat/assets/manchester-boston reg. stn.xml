@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Manchester-Boston Reg. Stn">
+  <pos>
+    <x>28199.488726</x>
+    <y>24837.471957</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase3.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>100.000000</value>
+    <range>8</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Manchester-Boston Reg. Stn is in the New York system. in the State of New Hampshire.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

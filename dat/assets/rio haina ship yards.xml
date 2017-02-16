@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Rio Haina Ship Yards">
+  <pos>
+    <x>39555.039280</x>
+    <y>-11223.617760</y>
+  </pos>
+  <GFX>
+    <space>station-shipyard.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Empire</faction>
+    <value>1.000000</value>
+    <range>2</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+      <shipyard/>
+    </services>
+    <commodities/>
+    <description>Rio Haina Ship Yards is in the Port-au-Prince system. in the Province of San Cristobal.</description>
+    <bar>Shipyard workers drink here</bar>
+  </general>
+  <tech>
+    <item>All Ships</item>
+    <item>All Outfits</item>
+  </tech>
+</asset>

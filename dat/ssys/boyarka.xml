@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Boyarka">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>975.000329</x>
+    <y>849.203809</y>
+  </pos>
+  <assets>
+    <asset>Boyarka, Krasnoyarsk</asset>
+    <asset>Khatanga, Krasnoyarsk</asset>
+    <asset>Yessey, Krasnoyarsk</asset>
+  </assets>
+  <jumps>
+    <jump target="Noginsk">
+      <autopos/>
+    </jump>
+    <jump target="Agapa">
+      <autopos/>
+    </jump>
+    <jump target="Bratsk">
+      <autopos/>
+    </jump>
+    <jump target="Chelyuskin">
+      <autopos/>
+    </jump>
+    <jump target="Yerema">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

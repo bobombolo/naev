@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Yulara, Northern Territory">
+  <pos>
+    <x>-15157.974499</x>
+    <y>39489.833981</y>
+  </pos>
+  <GFX>
+    <space>mapped/Yulara, Northern Territory.png</space>
+    <exterior>mining3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>930</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Yulara, Northern Territory is in the Port Lincoln system.It is part of Australia in the Territory of Northern Territory.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

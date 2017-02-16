@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Launceston, Tasmania">
+  <pos>
+    <x>-24591.745254</x>
+    <y>-10184.524743</y>
+  </pos>
+  <GFX>
+    <space>mapped/Launceston, Tasmania.png</space>
+    <exterior>mining4.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Soromid</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>72458</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Launceston, Tasmania is in the Canberra system.It is part of Australia in the State of Tasmania.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

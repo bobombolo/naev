@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Porto Velho">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-639.000120</x>
+    <y>-105.000273</y>
+  </pos>
+  <assets>
+    <asset>Porto Velho, Rondonia</asset>
+    <asset>Rio Branco, Acre</asset>
+    <asset>Crato, Amazonas</asset>
+    <asset>Coari, Amazonas</asset>
+    <asset>Tefe, Amazonas</asset>
+    <asset>Leticia, Amazonas</asset>
+    <asset>Sena Madureira, Acre</asset>
+    <asset>Eirunepe, Amazonas</asset>
+    <asset>Tabatinga TBT Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Santa Cruz">
+      <autopos/>
+    </jump>
+    <jump target="Natal">
+      <autopos/>
+    </jump>
+    <jump target="Bogota">
+      <autopos/>
+    </jump>
+    <jump target="Manaus">
+      <autopos/>
+    </jump>
+    <jump target="Ciudad Guayana">
+      <autopos/>
+    </jump>
+    <jump target="Lima">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Los Mochis Stn">
+  <pos>
+    <x>4166.282838</x>
+    <y>-33077.769391</y>
+  </pos>
+  <GFX>
+    <space>001.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Empire</faction>
+    <value>100.000000</value>
+    <range>8</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Los Mochis Stn is in the Phoenix system. in the State of Sinaloa.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

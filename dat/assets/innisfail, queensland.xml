@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Innisfail, Queensland">
+  <pos>
+    <x>-33323.822077</x>
+    <y>21163.382158</y>
+  </pos>
+  <GFX>
+    <space>mapped/Innisfail, Queensland.png</space>
+    <exterior>desertic3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Soromid</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>10143</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Innisfail, Queensland is in the Townsville system.It is part of Australia in the State of Queensland.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

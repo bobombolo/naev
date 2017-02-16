@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Vina del Mar Stn">
+  <pos>
+    <x>27854.859716</x>
+    <y>-22172.974121</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>100.000000</value>
+    <range>8</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Vina del Mar Stn is in the Valparaiso system. in the Region of Valparaiso.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

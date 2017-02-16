@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Miami">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-802.260519</x>
+    <y>309.474679</y>
+  </pos>
+  <assets>
+    <asset>Havana, Ciudad de la Habana</asset>
+    <asset>Cancun, Quintana Roo</asset>
+    <asset>Miami, Florida</asset>
+    <asset>Tampa, Florida</asset>
+    <asset>St. Petersburg, Florida</asset>
+    <asset>Santa Clara, Villa Clara</asset>
+    <asset>Orlando, Florida</asset>
+    <asset>Fort Lauderdale, Florida</asset>
+    <asset>Juan Gualberto Gomez Stn</asset>
+    <asset>Caibarien Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Port-au-Prince">
+      <autopos/>
+    </jump>
+    <jump target="Merida">
+      <autopos/>
+    </jump>
+    <jump target="Atlanta">
+      <autopos/>
+    </jump>
+    <jump target="Nassau">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

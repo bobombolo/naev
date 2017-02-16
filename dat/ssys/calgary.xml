@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Calgary">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1140.819441</x>
+    <y>613.019251</y>
+  </pos>
+  <assets>
+    <asset>Calgary, Alberta</asset>
+    <asset>Saskatoon, Saskatchewan</asset>
+    <asset>Regina, Saskatchewan</asset>
+    <asset>Billings, Montana</asset>
+    <asset>Red Deer, Alberta</asset>
+    <asset>Lethbridge, Alberta</asset>
+    <asset>Great Falls, Montana</asset>
+    <asset>Medicine Hat, Alberta</asset>
+    <asset>Logan BIL Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Seattle">
+      <autopos/>
+    </jump>
+    <jump target="Denver">
+      <autopos/>
+    </jump>
+    <jump target="Fargo">
+      <autopos/>
+    </jump>
+    <jump target="Edmonton">
+      <autopos/>
+    </jump>
+    <jump target="Prince Albert">
+      <autopos/>
+    </jump>
+    <jump target="Fort McMurray">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

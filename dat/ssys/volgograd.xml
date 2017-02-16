@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Volgograd">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>444.980146</x>
+    <y>584.543470</y>
+  </pos>
+  <assets>
+    <asset>Saratov, Saratov</asset>
+    <asset>Volgograd, Volgograd</asset>
+    <asset>Tolyatti, Samara</asset>
+    <asset>Ulyanovsk, Ul'yanovsk</asset>
+    <asset>Astrakhan, Astrakhan'</asset>
+    <asset>Astrakhan, Astrakhan'</asset>
+    <asset>Penza, Penza</asset>
+    <asset>Saransk, Mordovia</asset>
+    <asset>Saratov Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Moscow">
+      <autopos/>
+    </jump>
+    <jump target="Samara">
+      <autopos/>
+    </jump>
+    <jump target="Atyrau">
+      <autopos/>
+    </jump>
+    <jump target="Rostov">
+      <autopos/>
+    </jump>
+    <jump target="Baku">
+      <autopos/>
+    </jump>
+    <jump target="Nizhny Novgorod">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

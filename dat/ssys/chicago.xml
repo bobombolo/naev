@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Chicago">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-877.520008</x>
+    <y>501.983238</y>
+  </pos>
+  <assets>
+    <asset>Chicago, Illinois</asset>
+    <asset>Kansas City, Missouri</asset>
+    <asset>Memphis, Tennessee</asset>
+    <asset>Omaha, Nebraska</asset>
+    <asset>St. Louis, Missouri</asset>
+    <asset>Lincoln, Nebraska</asset>
+    <asset>Madison, Wisconsin</asset>
+    <asset>Aurora, Illinois</asset>
+    <asset>Springfield Reg. Stn</asset>
+    <asset>Tri-City Port Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Houston">
+      <autopos/>
+    </jump>
+    <jump target="Atlanta">
+      <autopos/>
+    </jump>
+    <jump target="Toronto">
+      <autopos/>
+    </jump>
+    <jump target="Dallas">
+      <autopos/>
+    </jump>
+    <jump target="Fargo">
+      <autopos/>
+    </jump>
+    <jump target="Minneapolis">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

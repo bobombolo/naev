@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Guadalajara">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1033.319801</x>
+    <y>248.063543</y>
+  </pos>
+  <assets>
+    <asset>Guadalajara, Jalisco</asset>
+    <asset>San Antonio, Texas</asset>
+    <asset>Monterrey, Nuevo Leon</asset>
+    <asset>Leon, Guanajuato</asset>
+    <asset>San Luis Potosi, San Luis Potosi</asset>
+    <asset>Aguascalientes, Aguascalientes</asset>
+    <asset>Queretaro, Queretaro</asset>
+    <asset>Saltillo, Coahuila</asset>
+    <asset>Venustiano Carranza LOV Stn</asset>
+    <asset>Corpus Christi Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Merida">
+      <autopos/>
+    </jump>
+    <jump target="Houston">
+      <autopos/>
+    </jump>
+    <jump target="Phoenix">
+      <autopos/>
+    </jump>
+    <jump target="Mazatlan">
+      <autopos/>
+    </jump>
+    <jump target="Mexico City">
+      <autopos/>
+    </jump>
+    <jump target="Dallas">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Mount Isa">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1394.900280</x>
+    <y>-248.686386</y>
+  </pos>
+  <assets>
+    <asset>Mount Isa, Queensland</asset>
+    <asset>Longreach, Queensland</asset>
+    <asset>Charleville, Queensland</asset>
+    <asset>Cloncurry, Queensland</asset>
+    <asset>Winton, Queensland</asset>
+    <asset>Barcaldine, Queensland</asset>
+    <asset>Quilpie, Queensland</asset>
+    <asset>Hughenden, Queensland</asset>
+  </assets>
+  <jumps>
+    <jump target="Cairns">
+      <autopos/>
+    </jump>
+    <jump target="Melbourne">
+      <autopos/>
+    </jump>
+    <jump target="Townsville">
+      <autopos/>
+    </jump>
+    <jump target="Sydney">
+      <autopos/>
+    </jump>
+    <jump target="Port Lincoln">
+      <autopos/>
+    </jump>
+    <jump target="Alice Springs">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

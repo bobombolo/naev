@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Hosaina, Southern Nations, Nationalities and Peoples">
+  <pos>
+    <x>1833.523805</x>
+    <y>21817.180987</y>
+  </pos>
+  <GFX>
+    <space>mapped/Hosaina, Southern Nations, Nationalities and Peoples.png</space>
+    <exterior>gas.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>89300</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Hosaina, Southern Nations, Nationalities and Peoples is in the Addis Ababa system.It is part of Ethiopia in the Administrative State of Southern Nations, Nationalities and Peoples.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

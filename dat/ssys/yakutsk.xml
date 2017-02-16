@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Yakutsk">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1297.350162</x>
+    <y>744.419507</y>
+  </pos>
+  <assets>
+    <asset>Yakutsk, Sakha (Yakutia)</asset>
+    <asset>Khandyga, Sakha (Yakutia)</asset>
+    <asset>Pokrovsk, Sakha (Yakutia)</asset>
+    <asset>Ust Maya, Sakha (Yakutia)</asset>
+    <asset>Eldikan, Sakha (Yakutia)</asset>
+    <asset>Chagda, Sakha (Yakutia)</asset>
+    <asset>Khakhar, Khabarovsk</asset>
+  </assets>
+  <jumps>
+    <jump target="Ust Nera">
+      <autopos/>
+    </jump>
+    <jump target="Vilyuysk">
+      <autopos/>
+    </jump>
+    <jump target="Tiksi">
+      <autopos/>
+    </jump>
+    <jump target="Neryungri">
+      <autopos/>
+    </jump>
+    <jump target="Jiamusi">
+      <autopos/>
+    </jump>
+    <jump target="Nikolayevsk na Amure">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Tripoli TIP Stn">
+  <pos>
+    <x>12033.431849</x>
+    <y>22767.516404</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>200.000000</value>
+    <range>6</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Tripoli TIP Stn is in the Tripoli system. in the Municipality|Governarate of Tajura' wa an Nawahi al Arba.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Verkhoyansk, Sakha (Yakutia)">
+  <pos>
+    <x>4010.674590</x>
+    <y>-18228.238933</y>
+  </pos>
+  <GFX>
+    <space>mapped/Verkhoyansk, Sakha (Yakutia).png</space>
+    <exterior>asteroid.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Pirate</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>1388</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Verkhoyansk, Sakha (Yakutia) is in the Tiksi system.It is part of Russia in the Autonomous Province of Sakha (Yakutia).</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

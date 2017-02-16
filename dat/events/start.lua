@@ -74,7 +74,7 @@ end
 function create()
    player.pilot():rename( name() ) -- Assign a random name to the player's ship.
    player.pilot():addOutfit( "Laser Cannon MK1", 2 )
-   jump.setKnown( "Hakoi", "Eneguoz" )
+   --jump.setKnown( "Hakoi", "Eneguoz" )
 
    hook.timer(1000, "prompt")
 end

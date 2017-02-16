@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Cairns CNS Stn">
+  <pos>
+    <x>33677.558755</x>
+    <y>-13599.777243</y>
+  </pos>
+  <GFX>
+    <space>001.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Soromid</faction>
+    <value>200.000000</value>
+    <range>6</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Cairns CNS Stn is in the Cairns system. in the State of Queensland.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

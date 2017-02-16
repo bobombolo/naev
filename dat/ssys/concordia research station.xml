@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Concordia Research Station">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1241.670357</x>
+    <y>-895.995713</y>
+  </pos>
+  <assets>
+    <asset>Concordia Research Station, Antarctica</asset>
+  </assets>
+  <jumps/>
+</ssys>

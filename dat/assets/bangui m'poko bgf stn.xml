@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Bangui M'Poko BGF Stn">
+  <pos>
+    <x>-14209.650958</x>
+    <y>-3395.027704</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase3.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>150.000000</value>
+    <range>7</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Bangui M'Poko BGF Stn is in the Bangui system. in the Autonomous Commune of Bangui.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

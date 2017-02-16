@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Kampala">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>325.813777</x>
+    <y>3.823258</y>
+  </pos>
+  <assets>
+    <asset>Kampala, Kampala</asset>
+    <asset>Kigali, Kigali City</asset>
+    <asset>Kisangani, Orientale</asset>
+    <asset>Mwanza, Mwanza</asset>
+    <asset>Bujumbura, Bujumbura Mairie</asset>
+    <asset>Bukavu, Sud-Kivu</asset>
+    <asset>Nyanza, Southern</asset>
+    <asset>Uvira, Sud-Kivu</asset>
+    <asset>Goma GOM Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Lubumbashi">
+      <autopos/>
+    </jump>
+    <jump target="Kinshasa">
+      <autopos/>
+    </jump>
+    <jump target="Nairobi">
+      <autopos/>
+    </jump>
+    <jump target="Addis Ababa">
+      <autopos/>
+    </jump>
+    <jump target="Bangui">
+      <autopos/>
+    </jump>
+    <jump target="El Obeid">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

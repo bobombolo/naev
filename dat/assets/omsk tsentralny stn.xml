@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Omsk Tsentralny Stn">
+  <pos>
+    <x>8435.996302</x>
+    <y>1075.346347</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase2.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>80.000000</value>
+    <range>9</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Omsk Tsentralny Stn is in the Omsk system. in the Region of Omsk.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

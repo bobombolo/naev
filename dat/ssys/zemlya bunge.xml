@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Zemlya Bunge">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1421.050105</x>
+    <y>898.779697</y>
+  </pos>
+  <assets>
+    <asset>Zemlya Bunge, Sakha (Yakutia)</asset>
+    <asset>Shalaurova, Sakha (Yakutia)</asset>
+  </assets>
+  <jumps>
+    <jump target="Ust Nera">
+      <autopos/>
+    </jump>
+    <jump target="Zyryanka">
+      <autopos/>
+    </jump>
+    <jump target="Tiksi">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

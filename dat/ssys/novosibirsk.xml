@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Novosibirsk">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>829.580960</x>
+    <y>660.382872</y>
+  </pos>
+  <assets>
+    <asset>Novosibirsk, Novosibirsk</asset>
+    <asset>Megion, Khanty-Mansiy</asset>
+    <asset>Strezhevoy, Tomsk</asset>
+    <asset>Barabinsk, Novosibirsk</asset>
+    <asset>Kolpashevo, Tomsk</asset>
+    <asset>Nizhenvartovsk, Khanty-Mansiy</asset>
+    <asset>Ob, Novosibirsk</asset>
+    <asset>Kargat, Novosibirsk</asset>
+    <asset>Novosibirsk Tolmachev Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Krasnoyarsk">
+      <autopos/>
+    </jump>
+    <jump target="Nakhodka">
+      <autopos/>
+    </jump>
+    <jump target="Noginsk">
+      <autopos/>
+    </jump>
+    <jump target="Omsk">
+      <autopos/>
+    </jump>
+    <jump target="Barnaul">
+      <autopos/>
+    </jump>
+    <jump target="Surgut">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

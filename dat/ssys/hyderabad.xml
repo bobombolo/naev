@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Hyderabad">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>784.780077</x>
+    <y>208.823148</y>
+  </pos>
+  <assets>
+    <asset>Hyderabad, Andhra Pradesh</asset>
+    <asset>Nagpur, Maharashtra</asset>
+    <asset>Bhopal, Madhya Pradesh</asset>
+    <asset>Bhilai, Chhattisgarh</asset>
+    <asset>Vishakhapatnam, Andhra Pradesh</asset>
+    <asset>Jabalpur, Madhya Pradesh</asset>
+    <asset>Aurangabad, Maharashtra</asset>
+    <asset>Vijayawada, Andhra Pradesh</asset>
+    <asset>Aurangabad Stn</asset>
+    <asset>Kakinada Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Karachi">
+      <autopos/>
+    </jump>
+    <jump target="Delhi">
+      <autopos/>
+    </jump>
+    <jump target="Kolkata">
+      <autopos/>
+    </jump>
+    <jump target="Mumbai">
+      <autopos/>
+    </jump>
+    <jump target="Chennai">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

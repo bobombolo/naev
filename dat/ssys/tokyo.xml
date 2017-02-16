@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Tokyo">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1397.494616</x>
+    <y>428.243553</y>
+  </pos>
+  <assets>
+    <asset>Tokyo, Tokyo</asset>
+    <asset>Yokohama, Kanagawa</asset>
+    <asset>Nagoya, Aichi</asset>
+    <asset>Kawasaki, Kanagawa</asset>
+    <asset>Sendai, Miyagi</asset>
+    <asset>Hamamatsu, Shizuoka</asset>
+    <asset>Shizuoka, Shizuoka</asset>
+    <asset>Hachioji, Tokyo</asset>
+    <asset>Nagoya Stn</asset>
+    <asset>Fushiki Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Kyoto">
+      <autopos/>
+    </jump>
+    <jump target="Osaka">
+      <autopos/>
+    </jump>
+    <jump target="Sapporo">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

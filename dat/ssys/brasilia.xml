@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Brasilia">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-479.179981</x>
+    <y>-189.376732</y>
+  </pos>
+  <assets>
+    <asset>Brasilia, Distrito Federal</asset>
+    <asset>Goiania, Goias</asset>
+    <asset>Uberlandia, Minas Gerais</asset>
+    <asset>Anapolis, Goias</asset>
+    <asset>Uberaba, Minas Gerais</asset>
+    <asset>Palmas, Tocantins</asset>
+    <asset>Trindade, Goias</asset>
+    <asset>Araguari, Minas Gerais</asset>
+    <asset>Santa Genoveva Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Cuiaba">
+      <autopos/>
+    </jump>
+    <jump target="Natal">
+      <autopos/>
+    </jump>
+    <jump target="Belem">
+      <autopos/>
+    </jump>
+    <jump target="Salvador">
+      <autopos/>
+    </jump>
+    <jump target="Sao Paulo">
+      <autopos/>
+    </jump>
+    <jump target="Rio de Janeiro">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

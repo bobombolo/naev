@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Cochrane, Aisen del General Carlos Ibanez del Campo">
+  <pos>
+    <x>19300.086562</x>
+    <y>23283.948564</y>
+  </pos>
+  <GFX>
+    <space>mapped/Cochrane, Aisen del General Carlos Ibanez del Campo.png</space>
+    <exterior>mining3.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>4441</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Cochrane, Aisen del General Carlos Ibanez del Campo is in the Punta Arenas system.It is part of Chile in the Region of Aisen del General Carlos Ibanez del Campo.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

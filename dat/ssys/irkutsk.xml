@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Irkutsk">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1042.450476</x>
+    <y>627.839646</y>
+  </pos>
+  <assets>
+    <asset>Irkutsk, Irkutsk</asset>
+    <asset>Ulan Ude, Buryat</asset>
+    <asset>Angarsk, Irkutsk</asset>
+    <asset>Usolye Sibirskoye, Irkutsk</asset>
+    <asset>Cheremkhovo, Irkutsk</asset>
+    <asset>Zima, Irkutsk</asset>
+    <asset>Zheleznogorsk Ilimskiy, Irkutsk</asset>
+    <asset>Severobaykalsk, Buryat</asset>
+    <asset>Irkutsk S.E. Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Mirnyy">
+      <autopos/>
+    </jump>
+    <jump target="Baotou">
+      <autopos/>
+    </jump>
+    <jump target="Kyzyl">
+      <autopos/>
+    </jump>
+    <jump target="Chita">
+      <autopos/>
+    </jump>
+    <jump target="Bratsk">
+      <autopos/>
+    </jump>
+    <jump target="Yerema">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

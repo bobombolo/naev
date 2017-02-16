@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Medan">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>986.480944</x>
+    <y>42.983038</y>
+  </pos>
+  <assets>
+    <asset>Medan, Sumatera Utara</asset>
+    <asset>Kuala Lumpur, Kuala Lumpur</asset>
+    <asset>Kelang, Selangor</asset>
+    <asset>Padang, Sumatera Barat</asset>
+    <asset>Ipoh, Perak</asset>
+    <asset>Pekanbaru, Riau</asset>
+    <asset>Malacca, Melaka</asset>
+    <asset>Shah Alam, Selangor</asset>
+    <asset>Simpang Tiga Stn</asset>
+    <asset>Belawan Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Bangkok">
+      <autopos/>
+    </jump>
+    <jump target="Singapore">
+      <autopos/>
+    </jump>
+    <jump target="Jakarta">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

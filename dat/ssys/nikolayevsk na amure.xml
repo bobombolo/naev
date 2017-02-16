@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Nikolayevsk na Amure">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1407.300040</x>
+    <y>637.795628</y>
+  </pos>
+  <assets>
+    <asset>Nikolayevsk na Amure, Khabarovsk</asset>
+    <asset>Okha, Sakhalin</asset>
+    <asset>Nogliki, Sakhalin</asset>
+    <asset>Aleksandrovsk Sakhalinskiy, Sakhalin</asset>
+    <asset>Okhotsk, Khabarovsk</asset>
+    <asset>De Kastri, Khabarovsk</asset>
+    <asset>Ayan, Khabarovsk</asset>
+    <asset>Tukchi, Khabarovsk</asset>
+  </assets>
+  <jumps>
+    <jump target="Ust Nera">
+      <autopos/>
+    </jump>
+    <jump target="Magadan">
+      <autopos/>
+    </jump>
+    <jump target="Yakutsk">
+      <autopos/>
+    </jump>
+    <jump target="Sapporo">
+      <autopos/>
+    </jump>
+    <jump target="Jiamusi">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

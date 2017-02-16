@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Palmerston N. PMR Stn">
+  <pos>
+    <x>-4509.013744</x>
+    <y>38827.616918</y>
+  </pos>
+  <GFX>
+    <space>001.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Sirius</faction>
+    <value>150.000000</value>
+    <range>7</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Palmerston N. PMR Stn is in the Wellington system. in the Regional Council of Manawatu-Wanganui.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

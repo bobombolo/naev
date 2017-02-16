@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Rostov">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>397.107099</x>
+    <y>566.839124</y>
+  </pos>
+  <assets>
+    <asset>Rostov, Rostov</asset>
+    <asset>Dnipropetrovsk, Dnipropetrovs'k</asset>
+    <asset>Donetsk, Donets'k</asset>
+    <asset>Krasnodar, Krasnodar</asset>
+    <asset>Samsun, Samsun</asset>
+    <asset>Zaporizhzhya, Zaporizhzhya</asset>
+    <asset>Luhansk, Luhans'k</asset>
+    <asset>Mariupol, Donets'k</asset>
+    <asset>Zaporozhye OZH Stn</asset>
+    <asset>Tuapse Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Moscow">
+      <autopos/>
+    </jump>
+    <jump target="Kiev">
+      <autopos/>
+    </jump>
+    <jump target="Istanbul">
+      <autopos/>
+    </jump>
+    <jump target="Tel Aviv-Yafo">
+      <autopos/>
+    </jump>
+    <jump target="Baku">
+      <autopos/>
+    </jump>
+    <jump target="Volgograd">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

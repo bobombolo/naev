@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Fort McMurray">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1113.833153</x>
+    <y>680.799824</y>
+  </pos>
+  <assets>
+    <asset>Fort McMurray, Alberta</asset>
+    <asset>Fort Chipewyan, Alberta</asset>
+    <asset>Fort Smith, Alberta</asset>
+    <asset>Fort Resolution, Northwest Territories</asset>
+    <asset>Stony Rapids, Saskatchewan</asset>
+    <asset>Lutselke, Northwest Territories</asset>
+    <asset>Uranium City, Saskatchewan</asset>
+    <asset>Fort McMurray Stn</asset>
+    <asset>Fort Smith, Northwest Territories</asset>
+  </assets>
+  <jumps>
+    <jump target="Calgary">
+      <autopos/>
+    </jump>
+    <jump target="Edmonton">
+      <autopos/>
+    </jump>
+    <jump target="Prince Albert">
+      <autopos/>
+    </jump>
+    <jump target="Yellowknife">
+      <autopos/>
+    </jump>
+    <jump target="Cambridge Bay">
+      <autopos/>
+    </jump>
+    <jump target="Baker Lake">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

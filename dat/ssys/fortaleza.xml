@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Fortaleza">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-385.819272</x>
+    <y>-44.976864</y>
+  </pos>
+  <assets>
+    <asset>Fortaleza, Ceara</asset>
+    <asset>Teresina, Piaui</asset>
+    <asset>Timon, Maranhao</asset>
+    <asset>Sobral, Ceara</asset>
+    <asset>Caxias, Maranhao</asset>
+    <asset>Parnaiba, Piaui</asset>
+    <asset>Sao Jose de Ribamar, Maranhao</asset>
+    <asset>Russas, Ceara</asset>
+    <asset>Marechal Cunha Machado SLZ Stn</asset>
+    <asset>Mucuripe Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Belem">
+      <autopos/>
+    </jump>
+    <jump target="Salvador">
+      <autopos/>
+    </jump>
+    <jump target="Recife">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

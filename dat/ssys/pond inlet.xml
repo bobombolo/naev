@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Pond Inlet">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-780.000558</x>
+    <y>872.219768</y>
+  </pos>
+  <assets>
+    <asset>Pond Inlet, Nunavut</asset>
+  </assets>
+  <jumps>
+    <jump target="Arctic Bay">
+      <autopos/>
+    </jump>
+    <jump target="Iqaluit">
+      <autopos/>
+    </jump>
+    <jump target="Qaanaaq">
+      <autopos/>
+    </jump>
+    <jump target="Igloolik">
+      <autopos/>
+    </jump>
+    <jump target="Inukjuak">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

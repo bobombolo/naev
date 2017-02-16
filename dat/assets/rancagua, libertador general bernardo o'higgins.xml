@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Rancagua, Libertador General Bernardo O'Higgins">
+  <pos>
+    <x>-35502.177110</x>
+    <y>8053.987626</y>
+  </pos>
+  <GFX>
+    <space>mapped/Rancagua, Libertador General Bernardo O'Higgins.png</space>
+    <exterior>rocky_small.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>233268</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Rancagua, Libertador General Bernardo O'Higgins is in the Santiago system.It is part of Chile in the Region of Libertador General Bernardo O'Higgins.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Neryungri">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1247.103617</x>
+    <y>680.088550</y>
+  </pos>
+  <assets>
+    <asset>Ergun Zuoqi, Inner Mongol</asset>
+    <asset>Orongen Zizhiqi, Inner Mongol</asset>
+    <asset>Tynda, Amur</asset>
+    <asset>Zeya, Amur</asset>
+    <asset>Yitulihe, Inner Mongol</asset>
+    <asset>Aldan, Sakha (Yakutia)</asset>
+    <asset>Shimanovsk, Amur</asset>
+    <asset>Mogocha, Chita</asset>
+  </assets>
+  <jumps>
+    <jump target="Mirnyy">
+      <autopos/>
+    </jump>
+    <jump target="Vilyuysk">
+      <autopos/>
+    </jump>
+    <jump target="Yakutsk">
+      <autopos/>
+    </jump>
+    <jump target="Shenyeng">
+      <autopos/>
+    </jump>
+    <jump target="Chita">
+      <autopos/>
+    </jump>
+    <jump target="Jiamusi">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

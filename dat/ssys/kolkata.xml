@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Kolkata">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>883.227298</x>
+    <y>269.962982</y>
+  </pos>
+  <assets>
+    <asset>Dhaka, Dhaka</asset>
+    <asset>Kolkata, West Bengal</asset>
+    <asset>Chittagong, Chittagong</asset>
+    <asset>Patna, Bihar</asset>
+    <asset>Khulna, Khulna</asset>
+    <asset>Asansol, West Bengal</asset>
+    <asset>Haora, West Bengal</asset>
+    <asset>Ranchi, Jharkhand</asset>
+    <asset>Thimphu, Thimphu</asset>
+    <asset>Birsa Munda Stn</asset>
+    <asset>Mongla Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Leshan">
+      <autopos/>
+    </jump>
+    <jump target="Delhi">
+      <autopos/>
+    </jump>
+    <jump target="Nagchu">
+      <autopos/>
+    </jump>
+    <jump target="Rangoon">
+      <autopos/>
+    </jump>
+    <jump target="Hyderabad">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

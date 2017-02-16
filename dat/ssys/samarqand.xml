@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Samarqand">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>669.449987</x>
+    <y>476.040230</y>
+  </pos>
+  <assets>
+    <asset>Samarqand, Samarkand</asset>
+    <asset>Mazar-e Sharif, Balkh</asset>
+    <asset>Bukhara, Bukhoro</asset>
+    <asset>Turkmenabat, Chardzhou</asset>
+    <asset>Nukus, Karakalpakstan</asset>
+    <asset>Qarshi, Kashkadarya</asset>
+    <asset>Meymaneh, Faryab</asset>
+    <asset>Dasoguz, Tashauz</asset>
+  </assets>
+  <jumps>
+    <jump target="Lahore">
+      <autopos/>
+    </jump>
+    <jump target="Tashkent">
+      <autopos/>
+    </jump>
+    <jump target="Oostanay">
+      <autopos/>
+    </jump>
+    <jump target="Tehran">
+      <autopos/>
+    </jump>
+    <jump target="Atyrau">
+      <autopos/>
+    </jump>
+    <jump target="Quetta">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

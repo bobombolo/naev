@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Algiers">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>30.486067</x>
+    <y>441.180128</y>
+  </pos>
+  <assets>
+    <asset>Algiers, Alger</asset>
+    <asset>Oran, Oran</asset>
+    <asset>Constantine, Constantine</asset>
+    <asset>Chlef, Chlef</asset>
+    <asset>Oujda, Oriental</asset>
+    <asset>Alicante, Alicante</asset>
+    <asset>Setif, Setif</asset>
+    <asset>Blida, Blida</asset>
+    <asset>Oran Es Senia Stn</asset>
+    <asset>Alger Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Madrid">
+      <autopos/>
+    </jump>
+    <jump target="Paris">
+      <autopos/>
+    </jump>
+    <jump target="Rome">
+      <autopos/>
+    </jump>
+    <jump target="Arak">
+      <autopos/>
+    </jump>
+    <jump target="Tripoli">
+      <autopos/>
+    </jump>
+    <jump target="Casablanca">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

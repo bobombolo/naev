@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Ufa UFA Stn">
+  <pos>
+    <x>7541.818730</x>
+    <y>-2064.781137</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Proteron</faction>
+    <value>200.000000</value>
+    <range>6</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Ufa UFA Stn is in the Samara system. in the Republic of Bashkortostan.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

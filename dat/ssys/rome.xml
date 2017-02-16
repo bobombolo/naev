@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Rome">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>124.813126</x>
+    <y>502.774818</y>
+  </pos>
+  <assets>
+    <asset>Naples, Napoli</asset>
+    <asset>Tunis, Tunis</asset>
+    <asset>Palermo, Palermo</asset>
+    <asset>Genoa, Genova</asset>
+    <asset>Florence, Firenze</asset>
+    <asset>Bologna, Bologna</asset>
+    <asset>Catania, Catania</asset>
+    <asset>Annaba, Annaba</asset>
+    <asset>Rome, Roma</asset>
+    <asset>San Marino, Borgo Maggiore</asset>
+    <asset>Valletta, Valletta</asset>
+    <asset>Vatican City, Vatican</asset>
+    <asset>Ravenna Ship Yards</asset>
+    <asset>Catania Fontanarossa Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Berlin">
+      <autopos/>
+    </jump>
+    <jump target="Algiers">
+      <autopos/>
+    </jump>
+    <jump target="Paris">
+      <autopos/>
+    </jump>
+    <jump target="Budapest">
+      <autopos/>
+    </jump>
+    <jump target="Athens">
+      <autopos/>
+    </jump>
+    <jump target="Tripoli">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Townsville">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1467.699971</x>
+    <y>-230.999404</y>
+  </pos>
+  <assets>
+    <asset>Townsville, Queensland</asset>
+    <asset>Mackay, Queensland</asset>
+    <asset>Rockhampton, Queensland</asset>
+    <asset>Bundaberg, Queensland</asset>
+    <asset>Gladstone, Queensland</asset>
+    <asset>Bowen, Queensland</asset>
+    <asset>Innisfail, Queensland</asset>
+    <asset>Charters Towers, Queensland</asset>
+    <asset>Rockhampton Stn</asset>
+    <asset>Rockhampton Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Cairns">
+      <autopos/>
+    </jump>
+    <jump target="Mount Isa">
+      <autopos/>
+    </jump>
+    <jump target="Sydney">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

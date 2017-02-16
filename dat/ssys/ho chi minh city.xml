@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Ho Chi Minh City">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1066.930814</x>
+    <y>129.383656</y>
+  </pos>
+  <assets>
+    <asset>Ho Chi Minh City, Ho Chi Minh city</asset>
+    <asset>Phnom Penh, Phnom Penh</asset>
+    <asset>Da Nang, Đa Nang</asset>
+    <asset>Bien Hoa, Đong Nam Bo</asset>
+    <asset>Vinh, Nghe An</asset>
+    <asset>Hue, Thua Thien - Hue</asset>
+    <asset>Nha Trang, Khanh Hoa</asset>
+    <asset>Qui Nhon, Binh Đinh</asset>
+    <asset>Siem Reap REP Stn</asset>
+    <asset>Da Nang Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Chongqing">
+      <autopos/>
+    </jump>
+    <jump target="Bangkok">
+      <autopos/>
+    </jump>
+    <jump target="Rangoon">
+      <autopos/>
+    </jump>
+    <jump target="Guangzhou">
+      <autopos/>
+    </jump>
+    <jump target="Singapore">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

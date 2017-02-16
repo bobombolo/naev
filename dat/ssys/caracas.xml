@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Caracas">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-669.189831</x>
+    <y>126.035333</y>
+  </pos>
+  <assets>
+    <asset>Caracas, Distrito Capital</asset>
+    <asset>Valencia, Carabobo</asset>
+    <asset>Maracay, Aragua</asset>
+    <asset>Barquisimeto, Lara</asset>
+    <asset>Puerto la Cruz, Anzoategui</asset>
+    <asset>San Juan, Puerto Rico</asset>
+    <asset>Los Teques, Distrito Capital</asset>
+    <asset>Cumana, Sucre</asset>
+    <asset>Roseau, Saint George</asset>
+    <asset>Basseterre, Saint George Basseterre</asset>
+    <asset>Santo Domingo, Distrito Nacional</asset>
+    <asset>Sint Nicolaas Ship Yards</asset>
+    <asset>Punta Cana Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Port-au-Prince">
+      <autopos/>
+    </jump>
+    <jump target="Ciudad Guayana">
+      <autopos/>
+    </jump>
+    <jump target="Saint John's">
+      <autopos/>
+    </jump>
+    <jump target="Maturin">
+      <autopos/>
+    </jump>
+    <jump target="Medellin">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Houston">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-953.419251</x>
+    <y>357.863043</y>
+  </pos>
+  <assets>
+    <asset>Houston, Texas</asset>
+    <asset>Austin, Texas</asset>
+    <asset>New Orleans, Louisiana</asset>
+    <asset>Baton Rouge, Louisiana</asset>
+    <asset>Shreveport, Louisiana</asset>
+    <asset>Mobile, Alabama</asset>
+    <asset>Little Rock, Arkansas</asset>
+    <asset>Jackson, Mississippi</asset>
+    <asset>Little Rock National Stn</asset>
+    <asset>New Orleans Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Chicago">
+      <autopos/>
+    </jump>
+    <jump target="Atlanta">
+      <autopos/>
+    </jump>
+    <jump target="Guadalajara">
+      <autopos/>
+    </jump>
+    <jump target="Dallas">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

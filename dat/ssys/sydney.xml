@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Sydney">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1511.832340</x>
+    <y>-407.016781</y>
+  </pos>
+  <assets>
+    <asset>Sydney, New South Wales</asset>
+    <asset>Brisbane, Queensland</asset>
+    <asset>Newcastle, New South Wales</asset>
+    <asset>Gold Coast, Queensland</asset>
+    <asset>Wollongong, New South Wales</asset>
+    <asset>Toowoomba, Queensland</asset>
+    <asset>Sunshine Coast, Queensland</asset>
+    <asset>Wagga Wagga, New South Wales</asset>
+    <asset>Dubbo Stn</asset>
+    <asset>Maryborough Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Melbourne">
+      <autopos/>
+    </jump>
+    <jump target="Mount Isa">
+      <autopos/>
+    </jump>
+    <jump target="Townsville">
+      <autopos/>
+    </jump>
+    <jump target="Canberra">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

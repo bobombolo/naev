@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Anchorage">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1499.002149</x>
+    <y>734.639639</y>
+  </pos>
+  <assets>
+    <asset>Anchorage, Alaska</asset>
+    <asset>Fairbanks, Alaska</asset>
+    <asset>Wasilla, Alaska</asset>
+    <asset>Palmer, Alaska</asset>
+    <asset>Kenai, Alaska</asset>
+    <asset>Talkeetna, Alaska</asset>
+    <asset>Galena, Alaska</asset>
+    <asset>Denali Park, Alaska</asset>
+    <asset>Anchorage Ship Yards</asset>
+    <asset>Fairbanks FAI Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Bethel">
+      <autopos/>
+    </jump>
+    <jump target="Barrow">
+      <autopos/>
+    </jump>
+    <jump target="Kodiak">
+      <autopos/>
+    </jump>
+    <jump target="Prudhoe Bay">
+      <autopos/>
+    </jump>
+    <jump target="Valdez">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

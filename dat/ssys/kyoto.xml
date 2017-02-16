@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Kyoto">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1357.480521</x>
+    <y>420.383258</y>
+  </pos>
+  <assets>
+    <asset>Kyoto, Kyoto</asset>
+    <asset>Vladivostok, Primor'ye</asset>
+    <asset>Kanazawa, Ishikawa</asset>
+    <asset>Pohang, North Gyeongsang</asset>
+    <asset>Hamhung, Hamgyong-namdo</asset>
+    <asset>Otsu, Shiga</asset>
+    <asset>Chongjin, Hamgyong-bukto</asset>
+    <asset>Yanji, Jilin</asset>
+    <asset>Kanazawa Ship Yards</asset>
+    <asset>Yangyang YNY Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Shanghai">
+      <autopos/>
+    </jump>
+    <jump target="Shenyeng">
+      <autopos/>
+    </jump>
+    <jump target="Osaka">
+      <autopos/>
+    </jump>
+    <jump target="Sapporo">
+      <autopos/>
+    </jump>
+    <jump target="Tokyo">
+      <autopos/>
+    </jump>
+    <jump target="Jiamusi">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

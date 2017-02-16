@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Lubumbashi Luano FBM Stn">
+  <pos>
+    <x>-11451.120000</x>
+    <y>-11312.240000</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>500.000000</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Lubumbashi Luano FBM Stn is in the Lubumbashi system. in the Province of Katanga.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

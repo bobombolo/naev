@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Stanley">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-578.499679</x>
+    <y>-620.400132</y>
+  </pos>
+  <assets>
+    <asset>Stanley, Falkland Islands</asset>
+    <asset>Fox Bay, Falkland Islands</asset>
+  </assets>
+  <jumps/>
+</ssys>

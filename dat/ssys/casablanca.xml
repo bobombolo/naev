@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Casablanca">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-76.183133</x>
+    <y>403.223065</y>
+  </pos>
+  <assets>
+    <asset>Casablanca, Grand Casablanca</asset>
+    <asset>Rabat, Rabat - Sale - Zemmour - Zaer</asset>
+    <asset>Fez, Fes - Boulemane</asset>
+    <asset>Marrakesh, Marrakech - Tensift - Al Haouz</asset>
+    <asset>Agadir, Souss - Massa - Draa</asset>
+    <asset>Meknes, Meknes - Tafilalet</asset>
+    <asset>Kenitra, Gharb - Chrarda - Beni Hssen</asset>
+    <asset>Safi, Doukkala - Abda</asset>
+    <asset>Marrakech-Menara Stn</asset>
+    <asset>Safi Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Algiers">
+      <autopos/>
+    </jump>
+    <jump target="Madrid">
+      <autopos/>
+    </jump>
+    <jump target="Arak">
+      <autopos/>
+    </jump>
+    <jump target="Las Palmas">
+      <autopos/>
+    </jump>
+    <jump target="Nema">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

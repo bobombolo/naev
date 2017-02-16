@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Cuiaba">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-560.869310</x>
+    <y>-186.811928</y>
+  </pos>
+  <assets>
+    <asset>Campo Grande, Mato Grosso do Sul</asset>
+    <asset>Cuiaba, Mato Grosso</asset>
+    <asset>Varzea Grande, Mato Grosso</asset>
+    <asset>Rondonopolis, Mato Grosso</asset>
+    <asset>Dourados, Mato Grosso do Sul</asset>
+    <asset>Coceres, Mato Grosso</asset>
+    <asset>Ponta Pora, Mato Grosso do Sul</asset>
+    <asset>Concepcion, Concepcion</asset>
+    <asset>Marechal Rondon CGB Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Buenos Aires">
+      <autopos/>
+    </jump>
+    <jump target="San Miguel de Tucuman">
+      <autopos/>
+    </jump>
+    <jump target="Santa Cruz">
+      <autopos/>
+    </jump>
+    <jump target="Natal">
+      <autopos/>
+    </jump>
+    <jump target="Brasilia">
+      <autopos/>
+    </jump>
+    <jump target="Sao Paulo">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

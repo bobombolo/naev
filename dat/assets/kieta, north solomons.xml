@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Kieta, North Solomons">
+  <pos>
+    <x>-25899.888000</x>
+    <y>-8308.062224</y>
+  </pos>
+  <GFX>
+    <space>mapped/Kieta, North Solomons.png</space>
+    <exterior>mining2.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Sirius</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+      <shipyard/>
+    </services>
+    <commodities/>
+    <description>Kieta, North Solomons is in the Honiara system. in the Province of North Solomons.</description>
+    <bar>Shipyard workers drink here</bar>
+  </general>
+  <tech>
+    <item>All Ships</item>
+    <item>All Outfits</item>
+  </tech>
+</asset>

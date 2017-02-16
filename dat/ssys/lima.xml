@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Lima">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-770.520080</x>
+    <y>-144.552802</y>
+  </pos>
+  <assets>
+    <asset>Lima, Lima Province</asset>
+    <asset>Callao, Callao</asset>
+    <asset>Huancayo, Junin</asset>
+    <asset>Chimbote, Ancash</asset>
+    <asset>Cusco, Cusco</asset>
+    <asset>Pucallpa, Ucayali</asset>
+    <asset>Trujillo, La Libertad</asset>
+    <asset>Ica, Ica</asset>
+    <asset>Callao Ship Yards</asset>
+    <asset>Velazco Astete CUZ Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Arequipa">
+      <autopos/>
+    </jump>
+    <jump target="Santa Cruz">
+      <autopos/>
+    </jump>
+    <jump target="Porto Velho">
+      <autopos/>
+    </jump>
+    <jump target="Guayaquil">
+      <autopos/>
+    </jump>
+    <jump target="Bogota">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

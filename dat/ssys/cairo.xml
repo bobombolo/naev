@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Cairo">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>312.480224</x>
+    <y>360.622874</y>
+  </pos>
+  <assets>
+    <asset>Cairo, Al Qahirah</asset>
+    <asset>Alexandria, Al Iskandariyah</asset>
+    <asset>El Giza, Al Jizah</asset>
+    <asset>Bur Said, Bur Sa`id</asset>
+    <asset>Suez, As Suways</asset>
+    <asset>El Mansura, Ad Daqahliyah</asset>
+    <asset>Asyut, Asyut</asset>
+    <asset>Tanta, Al Gharbiyah</asset>
+    <asset>Damietta Ship Yards</asset>
+    <asset>Asyut Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Athens">
+      <autopos/>
+    </jump>
+    <jump target="Al Jawf">
+      <autopos/>
+    </jump>
+    <jump target="Dongola">
+      <autopos/>
+    </jump>
+    <jump target="Tel Aviv-Yafo">
+      <autopos/>
+    </jump>
+    <jump target="Jeddah">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

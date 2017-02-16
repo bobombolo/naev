@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Fairbanks FAI Stn">
+  <pos>
+    <x>40312.231034</x>
+    <y>-41.055106</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Empire</faction>
+    <value>750.000000</value>
+    <range>3</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Fairbanks FAI Stn is in the Anchorage system. in the State of Alaska.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

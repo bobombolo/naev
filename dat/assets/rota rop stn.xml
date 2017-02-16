@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Rota ROP Stn">
+  <pos>
+    <x>29600.722389</x>
+    <y>-5211.669623</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Sirius</faction>
+    <value>80.000000</value>
+    <range>9</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Rota ROP Stn is in the Agana system. in the area of Rota.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

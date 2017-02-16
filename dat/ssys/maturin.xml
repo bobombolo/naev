@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Maturin">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-631.700308</x>
+    <y>116.999510</y>
+  </pos>
+  <assets>
+    <asset>Maturin, Monagas</asset>
+    <asset>Georgetown, East Berbice-Corentyne</asset>
+    <asset>Paramaribo, Paramaribo</asset>
+    <asset>San Fernando, San Fernando</asset>
+    <asset>San Fernando, San Fernando</asset>
+    <asset>Bridgetown, Saint Michael</asset>
+    <asset>Port-of-Spain, Port of Spain</asset>
+    <asset>Port-of-Spain, Port of Spain</asset>
+    <asset>Saint George's, Saint George</asset>
+    <asset>Kingstown, Saint George</asset>
+    <asset>Castries, Castries</asset>
+    <asset>New Amsterdam Ship Yards</asset>
+    <asset>Grantley Adams BGI Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Manaus">
+      <autopos/>
+    </jump>
+    <jump target="Caracas">
+      <autopos/>
+    </jump>
+    <jump target="Ciudad Guayana">
+      <autopos/>
+    </jump>
+    <jump target="Vila Velha">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="San Jose">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-840.859972</x>
+    <y>119.243499</y>
+  </pos>
+  <assets>
+    <asset>Managua, Managua</asset>
+    <asset>Tegucigalpa, Francisco Morazan</asset>
+    <asset>San Pedro Sula, Cortes</asset>
+    <asset>San Miguel, San Miguel</asset>
+    <asset>Leon, Leon</asset>
+    <asset>La Ceiba, Atlantida</asset>
+    <asset>Masaya, Masaya</asset>
+    <asset>Chinandega, Chinandega</asset>
+    <asset>San Jose, San Jose</asset>
+    <asset>Moin Ship Yards</asset>
+    <asset>Goloson LCE Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="San Salvador">
+      <autopos/>
+    </jump>
+    <jump target="Merida">
+      <autopos/>
+    </jump>
+    <jump target="David">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

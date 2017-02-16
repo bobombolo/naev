@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Wellington">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1747.832659</x>
+    <y>-495.599854</y>
+  </pos>
+  <assets>
+    <asset>Wellington, Wellington</asset>
+    <asset>Christchurch, Canterbury</asset>
+    <asset>Lower Hutt, Wellington</asset>
+    <asset>Palmerston North, Manawatu-Wanganui</asset>
+    <asset>Nelson, Nelson City</asset>
+    <asset>Porirua, Wellington</asset>
+    <asset>Upper Hutt, Wellington</asset>
+    <asset>Blenheim, Marlborough District</asset>
+    <asset>Lyttelton Ship Yards</asset>
+    <asset>Palmerston N. PMR Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Dunedin">
+      <autopos/>
+    </jump>
+    <jump target="Queenstown">
+      <autopos/>
+    </jump>
+    <jump target="Auckland">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

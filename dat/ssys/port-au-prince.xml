@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Port-au-Prince">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-723.379804</x>
+    <y>222.515645</y>
+  </pos>
+  <assets>
+    <asset>Santiago, Santiago</asset>
+    <asset>Port-au-Prince, Ouest</asset>
+    <asset>Kingston, Kingston</asset>
+    <asset>Santiago de Cuba, Santiago de Cuba</asset>
+    <asset>Holguin, Holguin</asset>
+    <asset>Camaguey, Camaguey</asset>
+    <asset>Guantanamo, Guantanamo</asset>
+    <asset>Bayamo, Granma</asset>
+    <asset>Exuma GGT Stn</asset>
+    <asset>Rio Haina Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Miami">
+      <autopos/>
+    </jump>
+    <jump target="Caracas">
+      <autopos/>
+    </jump>
+    <jump target="Nassau">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

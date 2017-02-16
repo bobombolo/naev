@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Arak">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>37.499930</x>
+    <y>303.359917</y>
+  </pos>
+  <assets>
+    <asset>Arak, Tamanghasset</asset>
+    <asset>Tamanrasset, Tamanghasset</asset>
+    <asset>Adrar, Adrar</asset>
+    <asset>Reggane, Adrar</asset>
+    <asset>I-n-Salah, Tamanghasset</asset>
+    <asset>Tessalit, Kidal</asset>
+    <asset>Timimoun, Adrar</asset>
+    <asset>In Amguel, Tamanghasset</asset>
+  </assets>
+  <jumps>
+    <jump target="Algiers">
+      <autopos/>
+    </jump>
+    <jump target="Niamey">
+      <autopos/>
+    </jump>
+    <jump target="Agadez">
+      <autopos/>
+    </jump>
+    <jump target="Tripoli">
+      <autopos/>
+    </jump>
+    <jump target="Nema">
+      <autopos/>
+    </jump>
+    <jump target="Casablanca">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

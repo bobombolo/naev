@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Yellowknife">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1143.969814</x>
+    <y>749.304170</y>
+  </pos>
+  <assets>
+    <asset>Yellowknife, Northwest Territories</asset>
+    <asset>Hay River, Northwest Territories</asset>
+    <asset>Kugluktuk, Nunavut</asset>
+    <asset>Fort Simpson, Northwest Territories</asset>
+    <asset>Doline, Northwest Territories</asset>
+    <asset>Yellowknife Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Edmonton">
+      <autopos/>
+    </jump>
+    <jump target="Norman Wells">
+      <autopos/>
+    </jump>
+    <jump target="Fort Nelson">
+      <autopos/>
+    </jump>
+    <jump target="Holman">
+      <autopos/>
+    </jump>
+    <jump target="Fort McMurray">
+      <autopos/>
+    </jump>
+    <jump target="Cambridge Bay">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

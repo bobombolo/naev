@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Xining">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1017.680590</x>
+    <y>439.463333</y>
+  </pos>
+  <assets>
+    <asset>Xining, Qinghai</asset>
+    <asset>Wuwei, Gansu</asset>
+    <asset>Jinchang, Gansu</asset>
+    <asset>Dunhuang, Gansu</asset>
+    <asset>Jiayuguan, Gansu</asset>
+    <asset>Yumen, Gansu</asset>
+    <asset>Golmud, Qinghai</asset>
+    <asset>Zhangye, Gansu</asset>
+  </assets>
+  <jumps>
+    <jump target="Leshan">
+      <autopos/>
+    </jump>
+    <jump target="Chengdu">
+      <autopos/>
+    </jump>
+    <jump target="Baotou">
+      <autopos/>
+    </jump>
+    <jump target="Kyzyl">
+      <autopos/>
+    </jump>
+    <jump target="Nagchu">
+      <autopos/>
+    </jump>
+    <jump target="Urumqi">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

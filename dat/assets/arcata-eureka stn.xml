@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Arcata-Eureka Stn">
+  <pos>
+    <x>22535.315839</x>
+    <y>9189.556305</y>
+  </pos>
+  <GFX>
+    <space>001.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Empire</faction>
+    <value>300.000000</value>
+    <range>5</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Arcata-Eureka Stn is in the San Francisco system. in the State of California.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

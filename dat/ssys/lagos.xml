@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Lagos">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>33.895852</x>
+    <y>77.342490</y>
+  </pos>
+  <assets>
+    <asset>Accra, Greater Accra</asset>
+    <asset>Ibadan, Oyo</asset>
+    <asset>Kumasi, Ashanti</asset>
+    <asset>Port Harcourt, Rivers</asset>
+    <asset>Aba, Abia</asset>
+    <asset>Lome, Maritime</asset>
+    <asset>Ikare, Ondo</asset>
+    <asset>Cotonou, Oueme</asset>
+    <asset>Kumasi Stn</asset>
+    <asset>Tema Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Niamey">
+      <autopos/>
+    </jump>
+    <jump target="Abidjan">
+      <autopos/>
+    </jump>
+    <jump target="Douala">
+      <autopos/>
+    </jump>
+    <jump target="Kano">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

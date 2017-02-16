@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Broome BME Stn">
+  <pos>
+    <x>-15916.235880</x>
+    <y>-22206.449034</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>200.000000</value>
+    <range>6</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Broome BME Stn is in the Kupang system. in the State of Western Australia.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

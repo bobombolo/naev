@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="El Plumerillo Stn">
+  <pos>
+    <x>-19970.190715</x>
+    <y>18791.758646</y>
+  </pos>
+  <GFX>
+    <space>001.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>500.000000</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>El Plumerillo Stn is in the Santiago system. in the Province of Mendoza.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

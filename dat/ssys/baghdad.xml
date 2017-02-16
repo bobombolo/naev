@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Baghdad">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>443.919229</x>
+    <y>400.087132</y>
+  </pos>
+  <assets>
+    <asset>Baghdad, Baghdad</asset>
+    <asset>Basra, Al-Basrah</asset>
+    <asset>Ahvaz, Khuzestan</asset>
+    <asset>Kermanshah, Kermanshah</asset>
+    <asset>An Najaf, An-Najaf</asset>
+    <asset>Karbala, Karbala'</asset>
+    <asset>An Nasiriyah, Dhi-Qar</asset>
+    <asset>Buraydah, Al Quassim</asset>
+    <asset>Kuwait, Al Asimah</asset>
+    <asset>Ahwaz Stn</asset>
+    <asset>Khorramshahr Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Ad Damman">
+      <autopos/>
+    </jump>
+    <jump target="Tehran">
+      <autopos/>
+    </jump>
+    <jump target="Tel Aviv-Yafo">
+      <autopos/>
+    </jump>
+    <jump target="Baku">
+      <autopos/>
+    </jump>
+    <jump target="Jeddah">
+      <autopos/>
+    </jump>
+    <jump target="Riyadh">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Katowice">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>190.200170</x>
+    <y>603.124566</y>
+  </pos>
+  <assets>
+    <asset>Warsaw, Masovian</asset>
+    <asset>Stockholm, Stockholm</asset>
+    <asset>Lddz, Łodz</asset>
+    <asset>Kraknw, Lesser Poland</asset>
+    <asset>Riga, Riga</asset>
+    <asset>Wroclaw, Lower Silesian</asset>
+    <asset>Poznan, Greater Poland</asset>
+    <asset>Vilnius, Vilniaus</asset>
+    <asset>Palanga PLQ Stn</asset>
+    <asset>Oskarshamn Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Tampere">
+      <autopos/>
+    </jump>
+    <jump target="St. Petersburg">
+      <autopos/>
+    </jump>
+    <jump target="Kiev">
+      <autopos/>
+    </jump>
+    <jump target="Berlin">
+      <autopos/>
+    </jump>
+    <jump target="Kobenhavn">
+      <autopos/>
+    </jump>
+    <jump target="Budapest">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

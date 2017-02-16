@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Nassau">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-773.500438</x>
+    <y>301.000681</y>
+  </pos>
+  <assets>
+    <asset>Nassau, New Providence</asset>
+    <asset>Wilmington, North Carolina</asset>
+    <asset>Jacksonville, North Carolina</asset>
+    <asset>Freeport, West Grand Bahama</asset>
+    <asset>Freeport Ship Yards</asset>
+    <asset>Wilmington ILM Stn</asset>
+    <asset>Wilmington, North Carolina</asset>
+    <asset>Wilmington, North Carolina</asset>
+    <asset>Freeport Int'l, West Grand Bahama</asset>
+    <asset>Nassau Int'l, New Providence</asset>
+  </assets>
+  <jumps>
+    <jump target="Port-au-Prince">
+      <autopos/>
+    </jump>
+    <jump target="Miami">
+      <autopos/>
+    </jump>
+    <jump target="Atlanta">
+      <autopos/>
+    </jump>
+    <jump target="New York">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

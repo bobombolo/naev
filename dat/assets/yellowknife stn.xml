@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Yellowknife Stn">
+  <pos>
+    <x>30607.069319</x>
+    <y>-18819.941112</y>
+  </pos>
+  <GFX>
+    <space>station-battlestation.png</space>
+    <exterior>station04.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Empire</faction>
+    <value>500.000000</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Yellowknife Stn is in the Yellowknife system. in the Territory of Northwest Territories.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

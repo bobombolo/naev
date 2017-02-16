@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Port Lincoln">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1358.665800</x>
+    <y>-416.798916</y>
+  </pos>
+  <assets>
+    <asset>Port Lincoln, South Australia</asset>
+    <asset>Tumby Bay, South Australia</asset>
+    <asset>Yulara, Northern Territory</asset>
+    <asset>Ceduna, South Australia</asset>
+    <asset>Kimba, South Australia</asset>
+    <asset>Andamooka, South Australia</asset>
+    <asset>Woomera, South Australia</asset>
+    <asset>Streaky Bay, South Australia</asset>
+  </assets>
+  <jumps>
+    <jump target="Melbourne">
+      <autopos/>
+    </jump>
+    <jump target="Mount Isa">
+      <autopos/>
+    </jump>
+    <jump target="Kalgoorlie">
+      <autopos/>
+    </jump>
+    <jump target="Newman">
+      <autopos/>
+    </jump>
+    <jump target="Alice Springs">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

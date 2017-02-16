@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Agapa">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>892.499939</x>
+    <y>857.404549</y>
+  </pos>
+  <assets>
+    <asset>Agapa, Krasnoyarsk</asset>
+    <asset>Mikhaylova, Krasnoyarsk</asset>
+  </assets>
+  <jumps>
+    <jump target="Nakhodka">
+      <autopos/>
+    </jump>
+    <jump target="Noginsk">
+      <autopos/>
+    </jump>
+    <jump target="Boyarka">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

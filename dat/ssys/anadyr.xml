@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Anadyr">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1774.749963</x>
+    <y>776.843885</y>
+  </pos>
+  <assets>
+    <asset>Anadyr, Chukchi Autonomous Okrug</asset>
+    <asset>Ugolnye Kopi, Chukchi Autonomous Okrug</asset>
+    <asset>Beringovskiy, Chukchi Autonomous Okrug</asset>
+    <asset>Mukhomornoye, Chukchi Autonomous Okrug</asset>
+  </assets>
+  <jumps>
+    <jump target="Bilibino">
+      <autopos/>
+    </jump>
+    <jump target="Korf">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Kobenhavn">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>125.615399</x>
+    <y>668.166121</y>
+  </pos>
+  <assets>
+    <asset>Kdbenhavn, Hovedstaden</asset>
+    <asset>Oslo, Oslo</asset>
+    <asset>Gdteborg, Vastra Gotaland</asset>
+    <asset>Malmn, Skane</asset>
+    <asset>Prhus, Midtjylland</asset>
+    <asset>Odense, Syddanmark</asset>
+    <asset>Trondheim, Sør-Trøndelag</asset>
+    <asset>Bdrum, Akershus</asset>
+    <asset>Horsens Ship Yards</asset>
+    <asset>Norrkoping Airport Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Bodo">
+      <autopos/>
+    </jump>
+    <jump target="Katowice">
+      <autopos/>
+    </jump>
+    <jump target="Tampere">
+      <autopos/>
+    </jump>
+    <jump target="Bergen">
+      <autopos/>
+    </jump>
+    <jump target="London">
+      <autopos/>
+    </jump>
+    <jump target="Berlin">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

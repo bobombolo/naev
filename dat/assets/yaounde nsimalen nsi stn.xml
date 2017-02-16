@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Yaounde Nsimalen NSI Stn">
+  <pos>
+    <x>-736.686882</x>
+    <y>31132.921657</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase.png</space>
+    <exterior>traderoom.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>500.000000</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Yaounde Nsimalen NSI Stn is in the Douala system. in the Province of Centre.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

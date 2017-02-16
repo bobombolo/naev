@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Shenyeng">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1234.480277</x>
+    <y>501.683102</y>
+  </pos>
+  <assets>
+    <asset>Shenyeng, Liaoning</asset>
+    <asset>Harbin, Heilongjiang</asset>
+    <asset>Changchun, Jilin</asset>
+    <asset>Jilin, Jilin</asset>
+    <asset>Fushun, Liaoning</asset>
+    <asset>Anshan, Liaoning</asset>
+    <asset>Qiqihar, Heilongjiang</asset>
+    <asset>Benxi, Liaoning</asset>
+    <asset>Yingkou Ship Yards</asset>
+    <asset>Changchun Longjia CGQ Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Beijing">
+      <autopos/>
+    </jump>
+    <jump target="Shanghai">
+      <autopos/>
+    </jump>
+    <jump target="Kyoto">
+      <autopos/>
+    </jump>
+    <jump target="Chita">
+      <autopos/>
+    </jump>
+    <jump target="Neryungri">
+      <autopos/>
+    </jump>
+    <jump target="Jiamusi">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

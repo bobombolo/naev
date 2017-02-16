@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Queenstown">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1687.250813</x>
+    <y>-540.272058</y>
+  </pos>
+  <assets>
+    <asset>Queenstown, Otago</asset>
+    <asset>Greymouth, West Coast</asset>
+    <asset>Wanaka, Otago</asset>
+    <asset>Westport, West Coast</asset>
+    <asset>Hokitika, West Coast</asset>
+  </assets>
+  <jumps>
+    <jump target="Dunedin">
+      <autopos/>
+    </jump>
+    <jump target="Wellington">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

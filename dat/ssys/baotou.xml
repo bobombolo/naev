@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Baotou">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1098.200740</x>
+    <y>487.849837</y>
+  </pos>
+  <assets>
+    <asset>Ulaanbaatar, Ulaanbaatar</asset>
+    <asset>Baotou, Inner Mongol</asset>
+    <asset>Erdenet, Orhon</asset>
+    <asset>Darhan, Selenge</asset>
+    <asset>Hanggin Houqi, Inner Mongol</asset>
+    <asset>Wuyuan, Inner Mongol</asset>
+    <asset>Arvayheer, Ovorhangay</asset>
+    <asset>Bayan Obo, Inner Mongol</asset>
+    <asset>Chinggis Khaan ULN Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Beijing">
+      <autopos/>
+    </jump>
+    <jump target="Xining">
+      <autopos/>
+    </jump>
+    <jump target="Chengdu">
+      <autopos/>
+    </jump>
+    <jump target="Kyzyl">
+      <autopos/>
+    </jump>
+    <jump target="Irkutsk">
+      <autopos/>
+    </jump>
+    <jump target="Chita">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

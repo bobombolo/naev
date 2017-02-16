@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Nakhodka">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>775.199605</x>
+    <y>813.004778</y>
+  </pos>
+  <assets>
+    <asset>Nakhodka, Yamal-Nenets</asset>
+    <asset>Yamburg, Yamal-Nenets</asset>
+    <asset>Dudinka, Krasnoyarsk</asset>
+    <asset>Tazovskiy, Yamal-Nenets</asset>
+    <asset>Dickson, Krasnoyarsk</asset>
+    <asset>Vorontsovo, Krasnoyarsk</asset>
+    <asset>Gyda, Yamal-Nenets</asset>
+  </assets>
+  <jumps>
+    <jump target="Novosibirsk">
+      <autopos/>
+    </jump>
+    <jump target="Noginsk">
+      <autopos/>
+    </jump>
+    <jump target="Agapa">
+      <autopos/>
+    </jump>
+    <jump target="Surgut">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

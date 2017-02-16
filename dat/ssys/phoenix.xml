@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Phoenix">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1120.719376</x>
+    <y>402.503109</y>
+  </pos>
+  <assets>
+    <asset>Ciudad Ju rez, Chihuahua</asset>
+    <asset>Phoenix, Arizona</asset>
+    <asset>Chihuahua, Chihuahua</asset>
+    <asset>Culiacan, Sinaloa</asset>
+    <asset>El Paso, Texas</asset>
+    <asset>Tucson, Arizona</asset>
+    <asset>Hermosillo, Sonora</asset>
+    <asset>Mesa, Arizona</asset>
+    <asset>Los Mochis Stn</asset>
+    <asset>Puerto Penasco Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Mazatlan">
+      <autopos/>
+    </jump>
+    <jump target="Guadalajara">
+      <autopos/>
+    </jump>
+    <jump target="Los Angeles">
+      <autopos/>
+    </jump>
+    <jump target="Denver">
+      <autopos/>
+    </jump>
+    <jump target="Dallas">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

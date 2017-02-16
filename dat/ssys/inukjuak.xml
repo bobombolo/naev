@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Inukjuak">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-781.359906</x>
+    <y>701.640103</y>
+  </pos>
+  <assets>
+    <asset>Inukjuak, Quebec</asset>
+    <asset>Cape Dorset, Nunavut</asset>
+    <asset>Kuujjuarapik, Quebec</asset>
+    <asset>Kangirsuk, Quebec</asset>
+    <asset>Ivugivik, Quebec</asset>
+    <asset>Salluit, Quebec</asset>
+  </assets>
+  <jumps>
+    <jump target="Iqaluit">
+      <autopos/>
+    </jump>
+    <jump target="Sept-Iles">
+      <autopos/>
+    </jump>
+    <jump target="Igloolik">
+      <autopos/>
+    </jump>
+    <jump target="Pond Inlet">
+      <autopos/>
+    </jump>
+    <jump target="Attawapiskat">
+      <autopos/>
+    </jump>
+    <jump target="Montreal">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

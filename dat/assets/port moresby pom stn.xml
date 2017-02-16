@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Port Moresby POM Stn">
+  <pos>
+    <x>-23943.193152</x>
+    <y>5904.938454</y>
+  </pos>
+  <GFX>
+    <space>001.png</space>
+    <exterior>station05.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Goddard</faction>
+    <value>500.000000</value>
+    <range>4</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Port Moresby POM Stn is in the Port Moresby system. in the Province of National Capital District.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

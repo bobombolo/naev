@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Hodeidah HOD Stn">
+  <pos>
+    <x>42802.050415</x>
+    <y>-543.812469</y>
+  </pos>
+  <GFX>
+    <space>station-fleetbase.png</space>
+    <exterior>station03.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Dvaered</faction>
+    <value>80.000000</value>
+    <range>9</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Hodeidah HOD Stn is in the Khartoum system. in the Governorate of Al Hudaydah.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

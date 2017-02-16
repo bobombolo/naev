@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Terra Nova Bay">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1642.190271</x>
+    <y>-895.430311</y>
+  </pos>
+  <assets>
+    <asset>Zucchelli Station, </asset>
+  </assets>
+  <jumps>
+    <jump target="McMurdo Station">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

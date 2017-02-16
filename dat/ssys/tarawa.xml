@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Tarawa">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1730.175708</x>
+    <y>16.058250</y>
+  </pos>
+  <assets>
+    <asset>Tarawa, Kiribati</asset>
+    <asset>Bonriki TRW Stn</asset>
+  </assets>
+  <jumps/>
+</ssys>

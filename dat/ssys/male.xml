@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Male">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>734.999475</x>
+    <y>50.000498</y>
+  </pos>
+  <assets>
+    <asset>Male, Male</asset>
+    <asset>Male MLE Stn</asset>
+    <asset>Male Ship Yards</asset>
+  </assets>
+  <jumps/>
+</ssys>

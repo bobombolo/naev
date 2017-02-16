@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Unalaska">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1665.316028</x>
+    <y>646.423008</y>
+  </pos>
+  <assets>
+    <asset>Unalaska, Alaska</asset>
+    <asset>Atka, Alaska</asset>
+    <asset>Nikolski, Alaska</asset>
+  </assets>
+  <jumps>
+    <jump target="Bethel">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

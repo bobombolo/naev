@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Hermes Quijada Int'l, Tierra del Fuego">
+  <pos>
+    <x>-11606.534770</x>
+    <y>11162.363154</y>
+  </pos>
+  <GFX>
+    <space>mapped/Hermes Quijada Int'l, Tierra del Fuego.png</space>
+    <exterior>rocky_small.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>0</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <outfits/>
+    </services>
+    <commodities/>
+    <description>Hermes Quijada Int'l, Tierra del Fuego is in the Rio Gallegos system. in the National Territory of Tierra del Fuego.</description>
+    <bar>This is the officer's lounge</bar>
+  </general>
+  <tech>
+    <item>All Outfits</item>
+  </tech>
+</asset>

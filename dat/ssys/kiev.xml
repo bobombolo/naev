@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Kiev">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>305.146821</x>
+    <y>605.223758</y>
+  </pos>
+  <assets>
+    <asset>Kiev, Kiev City</asset>
+    <asset>Minsk, City of Minsk</asset>
+    <asset>Lvov, L'viv</asset>
+    <asset>Odessa, Odessa</asset>
+    <asset>Chisinau, Chisinau</asset>
+    <asset>Kryvyy Rih, Dnipropetrovs'k</asset>
+    <asset>Homyel, Gomel</asset>
+    <asset>Vinnytsya, Vinnytsya</asset>
+    <asset>Galati Ship Yards</asset>
+    <asset>Odessa ODS Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Katowice">
+      <autopos/>
+    </jump>
+    <jump target="St. Petersburg">
+      <autopos/>
+    </jump>
+    <jump target="Moscow">
+      <autopos/>
+    </jump>
+    <jump target="Budapest">
+      <autopos/>
+    </jump>
+    <jump target="Istanbul">
+      <autopos/>
+    </jump>
+    <jump target="Rostov">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

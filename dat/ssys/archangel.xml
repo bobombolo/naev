@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Archangel">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>405.450081</x>
+    <y>774.899507</y>
+  </pos>
+  <assets>
+    <asset>Archangel, Arkhangel'sk</asset>
+    <asset>Petrozavodsk, Karelia</asset>
+    <asset>Severodvinsk, Arkhangel'sk</asset>
+    <asset>Kondopoga, Karelia</asset>
+    <asset>Segezha, Karelia</asset>
+    <asset>Onega, Arkhangel'sk</asset>
+    <asset>Kirovsk, Murmansk</asset>
+    <asset>Kem, Karelia</asset>
+    <asset>Arkhangelsk Ship Yards</asset>
+    <asset>Arkhangelsk-Talagi Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Murmansk">
+      <autopos/>
+    </jump>
+    <jump target="St. Petersburg">
+      <autopos/>
+    </jump>
+    <jump target="Moscow">
+      <autopos/>
+    </jump>
+    <jump target="Nizhny Novgorod">
+      <autopos/>
+    </jump>
+    <jump target="Mezen">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

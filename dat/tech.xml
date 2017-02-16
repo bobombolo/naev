@@ -124,6 +124,7 @@
   <item>Power Regulation Override</item>
   <item>Improved Power Regulator</item>
   <item>Improved Refrigeration Cycle</item>
+  <!--
   <item>Map: Nebula Edge</item>
   <item>Map: Collective Space</item>
   <item>Map: Dvaered-Soromid trade route</item>
@@ -138,6 +139,7 @@
   <item>Map: Qorel Expanse</item>
   <item>Map: New Haven's hidden jump points</item>
   <item>Map: FLF Hidden Jumps</item>
+  -->
   <item>Ultra Map</item>
   <item>Local System Map</item>
   <item>Unicorp Scrambler</item>
@@ -657,6 +659,7 @@
   <item>Vengeance Missile</item>
  </tech>
  <tech name="Star Maps">
+  <!--
   <item>Map: Nebula Edge</item>
   <item>Map: Dvaered-Soromid trade route</item>
   <item>Map: Sirian border systems</item>
@@ -666,6 +669,7 @@
   <item>Map: Empire Core</item>
   <item>Map: Sirius Core</item>
   <item>Map: Za'lek Core</item>
+ -->
   <item>Local System Map</item>
  </tech>
 
@@ -892,6 +896,7 @@
   <item>S&amp;K Heavy Combat Plating</item>
   <item>S&amp;K Superheavy Combat Plating</item>
  </tech>
+ <!--
  <tech name="Pirate Maps">
   <item>Map: Pirate strongholds</item>
   <item>Map: Qorel Expanse</item>
@@ -899,4 +904,5 @@
  <tech name="New Haven Maps">
   <item>Map: New Haven's hidden jump points</item>
  </tech>
+ -->
 </Techs>

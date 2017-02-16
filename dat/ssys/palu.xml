@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Palu">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1198.330367</x>
+    <y>-10.884468</y>
+  </pos>
+  <assets>
+    <asset>Bandjarmasin, Kalimantan Selatan</asset>
+    <asset>Balikpapan, Kalimantan Timur</asset>
+    <asset>Samarinda, Kalimantan Timur</asset>
+    <asset>Palu, Sulawesi Tengah</asset>
+    <asset>Tawau, Sabah</asset>
+    <asset>Miri, Sarawak</asset>
+    <asset>Sibu, Sarawak</asset>
+    <asset>Palangkaraya, Kalimantan Tengah</asset>
+    <asset>Nunukan Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Davao">
+      <autopos/>
+    </jump>
+    <jump target="Ujungpandang">
+      <autopos/>
+    </jump>
+    <jump target="Kota Kinabalu">
+      <autopos/>
+    </jump>
+    <jump target="Singapore">
+      <autopos/>
+    </jump>
+    <jump target="Jakarta">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

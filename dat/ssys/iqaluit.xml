@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Iqaluit">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-685.001917</x>
+    <y>765.005513</y>
+  </pos>
+  <assets>
+    <asset>Iqaluit, Nunavut</asset>
+    <asset>Port Burwell, Newfoundland and Labrador</asset>
+    <asset>Pangnirtung, Nunavut</asset>
+    <asset>Kimmirut, Nunavut</asset>
+    <asset>Iqaluit Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Sisimiut">
+      <autopos/>
+    </jump>
+    <jump target="Qaanaaq">
+      <autopos/>
+    </jump>
+    <jump target="Sept-Iles">
+      <autopos/>
+    </jump>
+    <jump target="Inukjuak">
+      <autopos/>
+    </jump>
+    <jump target="Pond Inlet">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

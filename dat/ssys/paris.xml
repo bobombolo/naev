@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Paris">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>23.313895</x>
+    <y>586.423665</y>
+  </pos>
+  <assets>
+    <asset>Barcelona, Barcelona</asset>
+    <asset>Turin, Turin</asset>
+    <asset>Marseille, Bouches-du-Rhone</asset>
+    <asset>Lyon, Rhone</asset>
+    <asset>Zaragoza, Zaragoza</asset>
+    <asset>Toulouse, Haute-Garonne</asset>
+    <asset>Nice, Alpes-Maritimes</asset>
+    <asset>Montpellier, Herault</asset>
+    <asset>Bern, Bern</asset>
+    <asset>Monaco, Monaco</asset>
+    <asset>Andorra, Andorra la Vella</asset>
+    <asset>Paris, Paris</asset>
+    <asset>Mandelieu Stn</asset>
+    <asset>Arcachon Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Birmingham">
+      <autopos/>
+    </jump>
+    <jump target="London">
+      <autopos/>
+    </jump>
+    <jump target="Berlin">
+      <autopos/>
+    </jump>
+    <jump target="Algiers">
+      <autopos/>
+    </jump>
+    <jump target="Madrid">
+      <autopos/>
+    </jump>
+    <jump target="Rome">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Santiago">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-706.689867</x>
+    <y>-401.376815</y>
+  </pos>
+  <assets>
+    <asset>Cdrdoba, Cordoba</asset>
+    <asset>Mendoza, Mendoza</asset>
+    <asset>San Juan, San Juan</asset>
+    <asset>San Bernardo, Region Metropolitana de Santiago</asset>
+    <asset>Rancagua, Libertador General Bernardo O'Higgins</asset>
+    <asset>Neuquen, Neuquen</asset>
+    <asset>San Luis, San Luis</asset>
+    <asset>Talca, Maule</asset>
+    <asset>Santiago, Region Metropolitana de Santiago</asset>
+    <asset>El Plumerillo Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Comodoro Rivadavia">
+      <autopos/>
+    </jump>
+    <jump target="Concepcion">
+      <autopos/>
+    </jump>
+    <jump target="Mar del Plata">
+      <autopos/>
+    </jump>
+    <jump target="Valparaiso">
+      <autopos/>
+    </jump>
+    <jump target="Buenos Aires">
+      <autopos/>
+    </jump>
+    <jump target="San Miguel de Tucuman">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

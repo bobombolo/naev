@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Lahore">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>743.480789</x>
+    <y>378.743009</y>
+  </pos>
+  <assets>
+    <asset>Lahore, Punjab</asset>
+    <asset>Kabul, Kabul</asset>
+    <asset>Faisalabad, Punjab</asset>
+    <asset>Saidu, N.W.F.P.</asset>
+    <asset>Rawalpindi, Punjab</asset>
+    <asset>Multan, Punjab</asset>
+    <asset>Gujranwala, Punjab</asset>
+    <asset>Peshawar, N.W.F.P.</asset>
+    <asset>Dushanbe, Dushanbe</asset>
+    <asset>Islamabad, F.C.T.</asset>
+    <asset>Adampur Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Karachi">
+      <autopos/>
+    </jump>
+    <jump target="Tashkent">
+      <autopos/>
+    </jump>
+    <jump target="Delhi">
+      <autopos/>
+    </jump>
+    <jump target="Kashi">
+      <autopos/>
+    </jump>
+    <jump target="Quetta">
+      <autopos/>
+    </jump>
+    <jump target="Samarqand">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

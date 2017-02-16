@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Beijing">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1163.863398</x>
+    <y>479.170057</y>
+  </pos>
+  <assets>
+    <asset>Beijing, Beijing</asset>
+    <asset>Tianjin, Tianjin</asset>
+    <asset>Taiyuan, Shanxi</asset>
+    <asset>Jinan, Shandong</asset>
+    <asset>Shijianzhuang, Hebei</asset>
+    <asset>Taian, Shandong</asset>
+    <asset>Tangshan, Hebei</asset>
+    <asset>Handan, Hebei</asset>
+    <asset>Taiyuan Wusu TYN Stn</asset>
+    <asset>Qinhuangdao Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Wuhan">
+      <autopos/>
+    </jump>
+    <jump target="Shanghai">
+      <autopos/>
+    </jump>
+    <jump target="Shenyeng">
+      <autopos/>
+    </jump>
+    <jump target="Chengdu">
+      <autopos/>
+    </jump>
+    <jump target="Baotou">
+      <autopos/>
+    </jump>
+    <jump target="Chita">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Jiamusi">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1303.480716</x>
+    <y>561.983607</y>
+  </pos>
+  <assets>
+    <asset>Hegang, Heilongjiang</asset>
+    <asset>Jiamusi, Heilongjiang</asset>
+    <asset>Khabarovsk, Khabarovsk</asset>
+    <asset>Shuangyashan, Heilongjiang</asset>
+    <asset>Jixi, Heilongjiang</asset>
+    <asset>Qitaihe, Heilongjiang</asset>
+    <asset>Komsomolsk na Amure, Khabarovsk</asset>
+    <asset>Blagoveshchensk, Amur</asset>
+    <asset>Jiamusi Dongjiao Stn</asset>
+    <asset>Khabarovsk Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Yakutsk">
+      <autopos/>
+    </jump>
+    <jump target="Shenyeng">
+      <autopos/>
+    </jump>
+    <jump target="Kyoto">
+      <autopos/>
+    </jump>
+    <jump target="Sapporo">
+      <autopos/>
+    </jump>
+    <jump target="Neryungri">
+      <autopos/>
+    </jump>
+    <jump target="Nikolayevsk na Amure">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Bogota">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-740.852898</x>
+    <y>55.180433</y>
+  </pos>
+  <assets>
+    <asset>Bogota, Bogota</asset>
+    <asset>Cali, Valle del Cauca</asset>
+    <asset>Quito, Pichincha</asset>
+    <asset>Pereira, Risaralda</asset>
+    <asset>Iquitos, Loreto</asset>
+    <asset>Ibague, Tolima</asset>
+    <asset>Pasto, Narino</asset>
+    <asset>Villavicencio, Meta</asset>
+    <asset>Tumaco Ship Yards</asset>
+    <asset>Alfonso Bonilla Aragon CLO Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Porto Velho">
+      <autopos/>
+    </jump>
+    <jump target="Guayaquil">
+      <autopos/>
+    </jump>
+    <jump target="Ciudad Guayana">
+      <autopos/>
+    </jump>
+    <jump target="Medellin">
+      <autopos/>
+    </jump>
+    <jump target="Lima">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

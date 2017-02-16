@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Urumqi">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>875.730598</x>
+    <y>525.683497</y>
+  </pos>
+  <assets>
+    <asset>Urumqi, Xinjiang</asset>
+    <asset>Shihezi, Xinjiang</asset>
+    <asset>Korla, Xinjiang</asset>
+    <asset>Altay, Xinjiang</asset>
+    <asset>Hami, Xinjiang</asset>
+    <asset>Karamay, Xinjiang</asset>
+    <asset>Turpan, Xinjiang</asset>
+    <asset>Koktokay, Xinjiang</asset>
+    <asset>Urumqi Diwopu URC Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Xining">
+      <autopos/>
+    </jump>
+    <jump target="Krasnoyarsk">
+      <autopos/>
+    </jump>
+    <jump target="Kyzyl">
+      <autopos/>
+    </jump>
+    <jump target="Kashi">
+      <autopos/>
+    </jump>
+    <jump target="Nagchu">
+      <autopos/>
+    </jump>
+    <jump target="Barnaul">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

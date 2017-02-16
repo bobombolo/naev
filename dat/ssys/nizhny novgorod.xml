@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Nizhny Novgorod">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>439.981485</x>
+    <y>676.019437</y>
+  </pos>
+  <assets>
+    <asset>Nizhny Novgorod, Nizhegorod</asset>
+    <asset>Kazan, Tatarstan</asset>
+    <asset>Kirov, Kirov</asset>
+    <asset>Cheboksary, Chuvash</asset>
+    <asset>Yoshkar Ola, Mariy-El</asset>
+    <asset>Syktyvkar, Komi</asset>
+    <asset>Dzerzhinsk, Nizhegorod</asset>
+    <asset>Arzamas, Nizhegorod</asset>
+    <asset>Nizhny Novgorod GOJ Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Moscow">
+      <autopos/>
+    </jump>
+    <jump target="Samara">
+      <autopos/>
+    </jump>
+    <jump target="Volgograd">
+      <autopos/>
+    </jump>
+    <jump target="Archangel">
+      <autopos/>
+    </jump>
+    <jump target="Mezen">
+      <autopos/>
+    </jump>
+    <jump target="Ukhta">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Hamilton">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-647.839374</x>
+    <y>387.530283</y>
+  </pos>
+  <assets>
+    <asset>Hamilton, Pembroke</asset>
+    <asset>Saint George Ship Yards</asset>
+    <asset>Hamilton, Paget</asset>
+    <asset>Bermuda BDA Stn</asset>
+  </assets>
+  <jumps/>
+</ssys>

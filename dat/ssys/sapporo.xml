@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Sapporo">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1413.380985</x>
+    <y>516.923102</y>
+  </pos>
+  <assets>
+    <asset>Sapporo, Hokkaido</asset>
+    <asset>Asahikawa, Hokkaido</asset>
+    <asset>Hakodate, Hokkaido</asset>
+    <asset>Aomori, Aomori</asset>
+    <asset>Hachinohe, Aomori</asset>
+    <asset>Kushiro, Hokkaido</asset>
+    <asset>Yuzhno Sakhalinsk, Sakhalin</asset>
+    <asset>Hirosaki, Aomori</asset>
+    <asset>Tomakomai Ship Yards</asset>
+    <asset>Okadama Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Kyoto">
+      <autopos/>
+    </jump>
+    <jump target="Tokyo">
+      <autopos/>
+    </jump>
+    <jump target="Jiamusi">
+      <autopos/>
+    </jump>
+    <jump target="Nikolayevsk na Amure">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Berlin">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>133.996028</x>
+    <y>630.285174</y>
+  </pos>
+  <assets>
+    <asset>Berlin, Berlin</asset>
+    <asset>Hamburg, Hamburg</asset>
+    <asset>Vienna, Wien</asset>
+    <asset>Milan, Milano</asset>
+    <asset>Munich, Bayern</asset>
+    <asset>Cologne, Nordrhein-Westfalen</asset>
+    <asset>Frankfurt, Hessen</asset>
+    <asset>Stuttgart, Baden-Wurttemberg</asset>
+    <asset>Ljubljana, Ljubljana</asset>
+    <asset>Luxembourg, Luxembourg</asset>
+    <asset>Vaduz, Vaduz</asset>
+    <asset>Prague, Prague</asset>
+    <asset>Bremen Stn</asset>
+    <asset>Cuxhaven Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Katowice">
+      <autopos/>
+    </jump>
+    <jump target="London">
+      <autopos/>
+    </jump>
+    <jump target="Kobenhavn">
+      <autopos/>
+    </jump>
+    <jump target="Paris">
+      <autopos/>
+    </jump>
+    <jump target="Rome">
+      <autopos/>
+    </jump>
+    <jump target="Budapest">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

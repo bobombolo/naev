@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Budapest">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>190.813748</x>
+    <y>570.023426</y>
+  </pos>
+  <assets>
+    <asset>Budapest, Budapest</asset>
+    <asset>Belgrade, Grad Beograd</asset>
+    <asset>Sofia, Grad Sofiya</asset>
+    <asset>Zagreb, Grad Zagreb</asset>
+    <asset>Sarajevo, Sarajevo</asset>
+    <asset>Skopje, Cair</asset>
+    <asset>Tirana, Durres</asset>
+    <asset>Bratislava, Bratislavsky</asset>
+    <asset>Pristina, Pristina</asset>
+    <asset>Podgorica, Podgorica</asset>
+    <asset>Sibenik Ship Yards</asset>
+    <asset>Skopje Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Katowice">
+      <autopos/>
+    </jump>
+    <jump target="Kiev">
+      <autopos/>
+    </jump>
+    <jump target="Berlin">
+      <autopos/>
+    </jump>
+    <jump target="Rome">
+      <autopos/>
+    </jump>
+    <jump target="Athens">
+      <autopos/>
+    </jump>
+    <jump target="Istanbul">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

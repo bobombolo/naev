@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Bethel">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1617.557961</x>
+    <y>729.519641</y>
+  </pos>
+  <assets>
+    <asset>Bethel, Alaska</asset>
+    <asset>Kotlit, Alaska</asset>
+    <asset>Dillingham, Alaska</asset>
+    <asset>Mountain Village, Alaska</asset>
+    <asset>Unalakleet, Alaska</asset>
+    <asset>Sand Point, Alaska</asset>
+    <asset>Aniak, Alaska</asset>
+    <asset>Tununak, Alaska</asset>
+    <asset>Bethel Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Unalaska">
+      <autopos/>
+    </jump>
+    <jump target="Nome">
+      <autopos/>
+    </jump>
+    <jump target="Barrow">
+      <autopos/>
+    </jump>
+    <jump target="Kodiak">
+      <autopos/>
+    </jump>
+    <jump target="Anchorage">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

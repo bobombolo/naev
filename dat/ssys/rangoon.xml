@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Rangoon">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>961.647318</x>
+    <y>201.423600</y>
+  </pos>
+  <assets>
+    <asset>Rangoon, Yangon</asset>
+    <asset>Mandalay, Mandalay</asset>
+    <asset>Vientiane, Vientiane [prefecture]</asset>
+    <asset>Mawlamyine, Mon</asset>
+    <asset>Bago, Bago</asset>
+    <asset>Chiang Mai, Chiang Mai</asset>
+    <asset>Pathein, Ayeyarwady</asset>
+    <asset>Naypyidaw, Mandalay</asset>
+    <asset>Mandalay MDL Stn</asset>
+    <asset>Bassein Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Leshan">
+      <autopos/>
+    </jump>
+    <jump target="Chongqing">
+      <autopos/>
+    </jump>
+    <jump target="Kolkata">
+      <autopos/>
+    </jump>
+    <jump target="Bangkok">
+      <autopos/>
+    </jump>
+    <jump target="Port Blair">
+      <autopos/>
+    </jump>
+    <jump target="Ho Chi Minh City">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

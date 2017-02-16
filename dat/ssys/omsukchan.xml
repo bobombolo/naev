@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Omsukchan">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1558.000402</x>
+    <y>750.399297</y>
+  </pos>
+  <assets>
+    <asset>Omsukchan, Maga Buryatdan</asset>
+    <asset>Cherskiy, Sakha (Yakutia)</asset>
+    <asset>Evensk, Maga Buryatdan</asset>
+    <asset>Omolon, Chukchi Autonomous Okrug</asset>
+    <asset>Mikhalkino, Sakha (Yakutia)</asset>
+  </assets>
+  <jumps>
+    <jump target="Magadan">
+      <autopos/>
+    </jump>
+    <jump target="Zyryanka">
+      <autopos/>
+    </jump>
+    <jump target="Bilibino">
+      <autopos/>
+    </jump>
+    <jump target="Korf">
+      <autopos/>
+    </jump>
+    <jump target="Petropavlovsk Kamchatskiy">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

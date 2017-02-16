@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Rio Gallegos">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-692.165868</x>
+    <y>-619.599560</y>
+  </pos>
+  <assets>
+    <asset>Rio Gallegos, Santa Cruz</asset>
+    <asset>Ushuaia, Tierra del Fuego</asset>
+    <asset>Puerto Williams, Magallanes y Antartica Chilena</asset>
+    <asset>Piloto Civil Norberto Fernandez RGL Stn</asset>
+    <asset>Hermes Quijada Int'l, Tierra del Fuego</asset>
+    <asset>Rio Grande Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Punta Arenas">
+      <autopos/>
+    </jump>
+    <jump target="Comodoro Rivadavia">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

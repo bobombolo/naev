@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Douala">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>97.080451</x>
+    <y>48.748268</y>
+  </pos>
+  <assets>
+    <asset>Douala, Littoral</asset>
+    <asset>Yaounde, Centre</asset>
+    <asset>Pointe-Noire, Pointe Noire</asset>
+    <asset>Libreville, Estuaire</asset>
+    <asset>Malabo, Bioko Norte</asset>
+    <asset>Kumba, Sud-Ouest</asset>
+    <asset>Port-Gentil, Ogooue-Maritime</asset>
+    <asset>Bata, Litoral</asset>
+    <asset>Sao Tome, Sao Tome</asset>
+    <asset>Pointe Noire Ship Yards</asset>
+    <asset>Yaounde Nsimalen NSI Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Luanda">
+      <autopos/>
+    </jump>
+    <jump target="Kinshasa">
+      <autopos/>
+    </jump>
+    <jump target="Lagos">
+      <autopos/>
+    </jump>
+    <jump target="Bangui">
+      <autopos/>
+    </jump>
+    <jump target="Kano">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

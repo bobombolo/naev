@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Aden">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>450.094901</x>
+    <y>153.356670</y>
+  </pos>
+  <assets>
+    <asset>Taizz, Ta`izz</asset>
+    <asset>Djibouti, Djibouti</asset>
+    <asset>Aden, `Adan</asset>
+    <asset>Dire Dawa, Dire Dawa</asset>
+    <asset>Hargeysa, Somaliland</asset>
+    <asset>Ibb, Ibb</asset>
+    <asset>Dhamar, Dhamar</asset>
+    <asset>Ceerigaabo, Somaliland</asset>
+    <asset>Djibouti-Ambouli JIB Stn</asset>
+    <asset>Berbera Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Addis Ababa">
+      <autopos/>
+    </jump>
+    <jump target="Khartoum">
+      <autopos/>
+    </jump>
+    <jump target="Mogadishu">
+      <autopos/>
+    </jump>
+    <jump target="Riyadh">
+      <autopos/>
+    </jump>
+    <jump target="Salalah">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="David">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-824.333252</x>
+    <y>101.199854</y>
+  </pos>
+  <assets>
+    <asset>David, Chiriqui</asset>
+    <asset>Santiago, Veraguas</asset>
+    <asset>Chitre, Herrera</asset>
+    <asset>Puerto Armuelles, Chiriqui</asset>
+    <asset>Penonome, Cocle</asset>
+    <asset>Las Tablas, Los Santos</asset>
+    <asset>Golfito, Puntarenas</asset>
+    <asset>Almirante, Bocas del Toro</asset>
+    <asset>Pedregal Ship Yards</asset>
+    <asset>Enrique Malek DAV Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="San Jose">
+      <autopos/>
+    </jump>
+    <jump target="Medellin">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

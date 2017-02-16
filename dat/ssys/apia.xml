@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Apia">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-1717.386416</x>
+    <y>-166.098541</y>
+  </pos>
+  <assets>
+    <asset>Apia, Tuamasaga</asset>
+    <asset>Pago Pago, Eastern</asset>
+    <asset>Neiafu, Vava'u</asset>
+    <asset>Alofi, Niue</asset>
+    <asset>Vava'u VAV Stn</asset>
+    <asset>Niue Int'l, Niue</asset>
+    <asset>Pago Pago Ship Yards</asset>
+    <asset>Pago Pago Int'l, Western</asset>
+    <asset>Faleolo, Aiga-i-le-Tai</asset>
+  </assets>
+  <jumps>
+    <jump target="Nukualofa">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

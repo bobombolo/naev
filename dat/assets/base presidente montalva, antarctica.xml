@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Base Presidente Montalva, Antarctica">
+  <pos>
+    <x>-10125.618639</x>
+    <y>-16047.788597</y>
+  </pos>
+  <GFX>
+    <space>mapped/Base Presidente Montalva, Antarctica.png</space>
+    <exterior>snow.png</exterior>
+  </GFX>
+  <presence>
+    <faction>FLF</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>150</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Base Presidente Montalva, Antarctica is in the Esperanza Station system.It is part of Antarctica.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

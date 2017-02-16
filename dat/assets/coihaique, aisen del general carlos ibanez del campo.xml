@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<asset name="Coihaique, Aisen del General Carlos Ibanez del Campo">
+  <pos>
+    <x>23139.645481</x>
+    <y>36854.179683</y>
+  </pos>
+  <GFX>
+    <space>mapped/Coihaique, Aisen del General Carlos Ibanez del Campo.png</space>
+    <exterior>desertic.png</exterior>
+  </GFX>
+  <presence>
+    <faction>Za'lek</faction>
+    <value>1.000000</value>
+    <range>1</range>
+  </presence>
+  <general>
+    <class>M</class>
+    <population>45787</population>
+    <hide>0.000000</hide>
+    <services>
+      <land/>
+      <refuel/>
+      <bar/>
+      <missions/>
+      <commodity/>
+      <outfits/>
+    </services>
+    <commodities>
+      <commodity>Food</commodity>
+      <commodity>Ore</commodity>
+      <commodity>Industrial Goods</commodity>
+      <commodity>Medicine</commodity>
+      <commodity>Luxury Goods</commodity>
+    </commodities>
+    <description>Coihaique, Aisen del General Carlos Ibanez del Campo is in the Punta Arenas system.It is part of Chile in the Region of Aisen del General Carlos Ibanez del Campo.</description>
+    <bar>Humans often drink at bars...</bar>
+  </general>
+  <tech>
+    <item>Basic Outfits 1</item>
+  </tech>
+</asset>

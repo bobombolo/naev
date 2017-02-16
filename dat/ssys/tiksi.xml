@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Tiksi">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1288.349668</x>
+    <y>859.522626</y>
+  </pos>
+  <assets>
+    <asset>Tiksi, Sakha (Yakutia)</asset>
+    <asset>Batagay, Sakha (Yakutia)</asset>
+    <asset>Ust Kuyga, Sakha (Yakutia)</asset>
+    <asset>Verkhoyansk, Sakha (Yakutia)</asset>
+    <asset>Nizhneyansk, Sakha (Yakutia)</asset>
+    <asset>Kavache, Sakha (Yakutia)</asset>
+  </assets>
+  <jumps>
+    <jump target="Ust Nera">
+      <autopos/>
+    </jump>
+    <jump target="Zemlya Bunge">
+      <autopos/>
+    </jump>
+    <jump target="Vilyuysk">
+      <autopos/>
+    </jump>
+    <jump target="Govorovo">
+      <autopos/>
+    </jump>
+    <jump target="Yakutsk">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

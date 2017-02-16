@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Atyrau">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>519.200244</x>
+    <y>565.352298</y>
+  </pos>
+  <assets>
+    <asset>Atyrau, Atyrau</asset>
+    <asset>Mangyshlak, Mangghystau</asset>
+    <asset>Turkmenbasy, Balkan</asset>
+    <asset>Qunghirot, Karakalpakstan</asset>
+    <asset>Qulsary, Atyrau</asset>
+    <asset>Beyneu, Mangghystau</asset>
+    <asset>Koneurgench, Tashauz</asset>
+    <asset>Oktyabrsk, Aqtobe</asset>
+  </assets>
+  <jumps>
+    <jump target="Samara">
+      <autopos/>
+    </jump>
+    <jump target="Oostanay">
+      <autopos/>
+    </jump>
+    <jump target="Tehran">
+      <autopos/>
+    </jump>
+    <jump target="Samarqand">
+      <autopos/>
+    </jump>
+    <jump target="Baku">
+      <autopos/>
+    </jump>
+    <jump target="Volgograd">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

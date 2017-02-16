@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Mumbai">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>728.550434</x>
+    <y>228.227235</y>
+  </pos>
+  <assets>
+    <asset>Mumbai, Maharashtra</asset>
+    <asset>Pune, Maharashtra</asset>
+    <asset>Kalyan, Maharashtra</asset>
+    <asset>Sholapur, Maharashtra</asset>
+    <asset>Hubli, Karnataka</asset>
+    <asset>Bhiwandi, Maharashtra</asset>
+    <asset>Belgaum, Karnataka</asset>
+    <asset>Sangli, Maharashtra</asset>
+    <asset>Solapur Stn</asset>
+    <asset>Mangalore Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Karachi">
+      <autopos/>
+    </jump>
+    <jump target="Hyderabad">
+      <autopos/>
+    </jump>
+    <jump target="Chennai">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

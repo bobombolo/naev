@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Leshan">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1037.314017</x>
+    <y>354.828499</y>
+  </pos>
+  <assets>
+    <asset>Baoshan, Yunnan</asset>
+    <asset>Panzhihua, Sichuan</asset>
+    <asset>Yaan, Sichuan</asset>
+    <asset>Leshan, Sichuan</asset>
+    <asset>Dali, Yunnan</asset>
+    <asset>Xichang, Sichuan</asset>
+    <asset>Tengchong, Yunnan</asset>
+    <asset>Dibrugarh, Assam</asset>
+  </assets>
+  <jumps>
+    <jump target="Xining">
+      <autopos/>
+    </jump>
+    <jump target="Chongqing">
+      <autopos/>
+    </jump>
+    <jump target="Chengdu">
+      <autopos/>
+    </jump>
+    <jump target="Kolkata">
+      <autopos/>
+    </jump>
+    <jump target="Nagchu">
+      <autopos/>
+    </jump>
+    <jump target="Rangoon">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

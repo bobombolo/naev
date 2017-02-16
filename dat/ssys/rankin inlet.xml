@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Rankin Inlet">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-920.953195</x>
+    <y>753.800020</y>
+  </pos>
+  <assets>
+    <asset>Rankin Inlet, Nunavut</asset>
+    <asset>Arviat, Nunavut</asset>
+    <asset>Gillam, Manitoba</asset>
+    <asset>Churchill, Manitoba</asset>
+    <asset>Shamattawa, Manitoba</asset>
+    <asset>Chesterfield Inlet, Nunavut</asset>
+    <asset>Churchill Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Gjoa Haven">
+      <autopos/>
+    </jump>
+    <jump target="Igloolik">
+      <autopos/>
+    </jump>
+    <jump target="Prince Albert">
+      <autopos/>
+    </jump>
+    <jump target="Minneapolis">
+      <autopos/>
+    </jump>
+    <jump target="Attawapiskat">
+      <autopos/>
+    </jump>
+    <jump target="Baker Lake">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

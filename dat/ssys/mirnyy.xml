@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Mirnyy">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1139.613537</x>
+    <y>750.480222</y>
+  </pos>
+  <assets>
+    <asset>Lensk, Sakha (Yakutia)</asset>
+    <asset>Mirnyy, Sakha (Yakutia)</asset>
+    <asset>Bodaybo, Irkutsk</asset>
+    <asset>Taksimo, Buryat</asset>
+    <asset>Olyokminsk, Sakha (Yakutia)</asset>
+    <asset>Chernyshevskiy, Sakha (Yakutia)</asset>
+    <asset>Vitim, Sakha (Yakutia)</asset>
+    <asset>Suntar, Sakha (Yakutia)</asset>
+  </assets>
+  <jumps>
+    <jump target="Udachnyy">
+      <autopos/>
+    </jump>
+    <jump target="Vilyuysk">
+      <autopos/>
+    </jump>
+    <jump target="Irkutsk">
+      <autopos/>
+    </jump>
+    <jump target="Chita">
+      <autopos/>
+    </jump>
+    <jump target="Neryungri">
+      <autopos/>
+    </jump>
+    <jump target="Yerema">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

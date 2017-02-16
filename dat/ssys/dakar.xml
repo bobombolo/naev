@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Dakar">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-174.750760</x>
+    <y>176.613331</y>
+  </pos>
+  <assets>
+    <asset>Dakar, Dakar</asset>
+    <asset>Nouakchott, Nouakchott</asset>
+    <asset>Bissau, Bissau</asset>
+    <asset>Thies, Thies</asset>
+    <asset>Kaolack, Kaolack</asset>
+    <asset>Saint-Louis, Trarza</asset>
+    <asset>Ziguinchor, Ziguinchor</asset>
+    <asset>Diourbel, Diourbel</asset>
+    <asset>Banjul, Banjul</asset>
+    <asset>Nouakchott NKC Stn</asset>
+    <asset>St Louis Ship Yards</asset>
+  </assets>
+  <jumps>
+    <jump target="Las Palmas">
+      <autopos/>
+    </jump>
+    <jump target="Nema">
+      <autopos/>
+    </jump>
+    <jump target="Conakry">
+      <autopos/>
+    </jump>
+    <jump target="Abidjan">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

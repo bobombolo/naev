@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Buenos Aires">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-583.994772</x>
+    <y>-415.206669</y>
+  </pos>
+  <assets>
+    <asset>Buenos Aires, Ciudad de Buenos Aires</asset>
+    <asset>Rosario, Santa Fe</asset>
+    <asset>Resistencia, Chaco</asset>
+    <asset>Corrientes, Corrientes</asset>
+    <asset>Ciudad del Este, Alto Parana</asset>
+    <asset>Posadas, Misiones</asset>
+    <asset>Santa Fe, Santa Fe</asset>
+    <asset>San Lorenzo, Central</asset>
+    <asset>Asuncion, Asuncion</asset>
+    <asset>Montevideo, Montevideo</asset>
+    <asset>Campana Ship Yards</asset>
+    <asset>Rosario  Islas Malvinas ROS Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Mar del Plata">
+      <autopos/>
+    </jump>
+    <jump target="Santiago">
+      <autopos/>
+    </jump>
+    <jump target="San Miguel de Tucuman">
+      <autopos/>
+    </jump>
+    <jump target="Cuiaba">
+      <autopos/>
+    </jump>
+    <jump target="Sao Paulo">
+      <autopos/>
+    </jump>
+    <jump target="Pelotas">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

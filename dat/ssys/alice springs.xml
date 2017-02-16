@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Alice Springs">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1338.800345</x>
+    <y>-284.411958</y>
+  </pos>
+  <assets>
+    <asset>Alice Springs, Northern Territory</asset>
+    <asset>Tennant Creek, Northern Territory</asset>
+    <asset>Camooweal, Queensland</asset>
+    <asset>Newcastle Waters, Northern Territory</asset>
+    <asset>Alice Springs Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Cairns">
+      <autopos/>
+    </jump>
+    <jump target="Mount Isa">
+      <autopos/>
+    </jump>
+    <jump target="Port Lincoln">
+      <autopos/>
+    </jump>
+    <jump target="Newman">
+      <autopos/>
+    </jump>
+    <jump target="Kupang">
+      <autopos/>
+    </jump>
+    <jump target="Darwin">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

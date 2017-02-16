@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Chita">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>1134.650016</x>
+    <y>624.660305</y>
+  </pos>
+  <assets>
+    <asset>Chita, Chita</asset>
+    <asset>Hailar, Inner Mongol</asset>
+    <asset>Yakeshi, Inner Mongol</asset>
+    <asset>Manzhouli, Inner Mongol</asset>
+    <asset>Krasnokamensk, Chita</asset>
+    <asset>Choybalsan, Dornod</asset>
+    <asset>Borzya, Chita</asset>
+    <asset>Baruun Urt, Suhbaatar</asset>
+  </assets>
+  <jumps>
+    <jump target="Mirnyy">
+      <autopos/>
+    </jump>
+    <jump target="Beijing">
+      <autopos/>
+    </jump>
+    <jump target="Shenyeng">
+      <autopos/>
+    </jump>
+    <jump target="Baotou">
+      <autopos/>
+    </jump>
+    <jump target="Irkutsk">
+      <autopos/>
+    </jump>
+    <jump target="Neryungri">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

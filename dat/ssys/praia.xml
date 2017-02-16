@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Praia">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-235.166889</x>
+    <y>179.000376</y>
+  </pos>
+  <assets>
+    <asset>Praia, Praia</asset>
+    <asset>Mindelo, Sao Vicente</asset>
+    <asset>Praia RAI Stn</asset>
+    <asset>Amilcar Cabral Int'l, Sal</asset>
+    <asset>Praia Ship Yards</asset>
+  </assets>
+  <jumps/>
+</ssys>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Santa Cruz">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>-632.279422</x>
+    <y>-213.023661</y>
+  </pos>
+  <assets>
+    <asset>Santa Cruz, Santa Cruz</asset>
+    <asset>La Paz, La Paz</asset>
+    <asset>Cochabamba, Cochabamba</asset>
+    <asset>Tacna, Tacna</asset>
+    <asset>Santa Ana, El Beni</asset>
+    <asset>Quillacollo, Cochabamba</asset>
+    <asset>Juliaca, Callao</asset>
+    <asset>Sucre, Chuquisaca</asset>
+    <asset>Juana Azurduy de Padilla SRE Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="San Miguel de Tucuman">
+      <autopos/>
+    </jump>
+    <jump target="Cuiaba">
+      <autopos/>
+    </jump>
+    <jump target="Arequipa">
+      <autopos/>
+    </jump>
+    <jump target="Natal">
+      <autopos/>
+    </jump>
+    <jump target="Porto Velho">
+      <autopos/>
+    </jump>
+    <jump target="Lima">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ssys name="Samara">
+  <general>
+    <radius>46188.000000</radius>
+    <stars>100</stars>
+    <interference>0.000000</interference>
+    <nebula volatility="0.0">0.0</nebula>
+  </general>
+  <pos>
+    <x>501.493493</x>
+    <y>638.363441</y>
+  </pos>
+  <assets>
+    <asset>Ufa, Bashkortostan</asset>
+    <asset>Samara, Samara</asset>
+    <asset>Perm, Perm'</asset>
+    <asset>Izhevsk, Udmurt</asset>
+    <asset>Orenburg, Orenburg</asset>
+    <asset>Orenburg, Orenburg</asset>
+    <asset>Naberezhnyye Chelny, Tatarstan</asset>
+    <asset>Aqtobe, Aqtobe</asset>
+    <asset>Ufa UFA Stn</asset>
+  </assets>
+  <jumps>
+    <jump target="Oostanay">
+      <autopos/>
+    </jump>
+    <jump target="Atyrau">
+      <autopos/>
+    </jump>
+    <jump target="Volgograd">
+      <autopos/>
+    </jump>
+    <jump target="Nizhny Novgorod">
+      <autopos/>
+    </jump>
+    <jump target="Ukhta">
+      <autopos/>
+    </jump>
+    <jump target="Yekaterinburg">
+      <autopos/>
+    </jump>
+  </jumps>
+</ssys>
